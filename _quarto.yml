@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Team Science Training Workshop"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Facilitator Guide"
+        href: facilitator-guide.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
