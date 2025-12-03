@@ -1,38 +1,25 @@
-name: Publish Quarto Website to GitHub Pages
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
 on:
-  push:
-    branches:
-      - main # Or your main branch name
   workflow_dispatch:
+  push:
+    branches: [main]
+
+name: Quarto Publish
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Required for pushing to gh-pages branch
-      pages: write # Required for deploying to GitHub Pages
-      id-token: write # Required for OIDC authentication with GitHub Pages
-
+      contents: write
     steps:
-      - name: Checkout repository
+      - name: Check out repository
         uses: actions/checkout@v4
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render Quarto project
-        run: quarto render
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Render and Publish
+        uses: quarto-dev/quarto-actions/publish@v2
         with:
-          path: _site # Or the output directory of your Quarto project
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}4
