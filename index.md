@@ -64,9 +64,3 @@ By the end of this workshop, participants will:
 - Possess practical frameworks and tools for improving team collaboration
 - Have developed personal action plans for implementing specific practices
 - Be connected with peers for ongoing learning and support
-
----
-
-## Getting Started
-
-To begin, navigate to the [Facilitator Guide](facilitator-guide.qmd) for detailed instructions on delivering this training program.
