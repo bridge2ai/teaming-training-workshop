@@ -1,5 +1,7 @@
 ## Teaming training
 
+[![Quarto Publish](https://github.com/bridge2ai/teaming-training-workshop/actions/workflows/publish.yml/badge.svg)](https://github.com/bridge2ai/teaming-training-workshop/actions/workflows/publish.yml)
+
 
 ### Development
 
