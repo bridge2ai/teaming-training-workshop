@@ -1,19 +1,22 @@
 ## Teaming training
 
-### Facilitator guide
+
+### Development
 
 To convert markdown to publication format, first install [download and install quarto](https://quarto.org/docs/get-started/).
 
 Then, from the command line:
 
 ```bash
-quarto render --to pdf team_science_facilitator_guide.md
+quarto render 
 ```
 
-Or for a word document:
+Or for interactive development
 
 ```bash
-quarto render --to docx team_science_facilitator_guide.md
+quarto preview
 ```
 
+### Automation
 
+The site will automatically build and deploy using github actions. 
