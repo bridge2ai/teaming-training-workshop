@@ -9,7 +9,7 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "Facilitator Guide"
-        href: facilitator-guide.qmd
+        href: facilitator-guide.md
 
 format:
   html:
