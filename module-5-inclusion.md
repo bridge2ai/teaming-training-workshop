@@ -1,8 +1,8 @@
 # Module 5: Building Inclusive and Productive Teams (30 minutes)
 
-### Content Block: Diversity, Equity, and Team Performance (15 minutes)
+## Content Block: Diversity, Equity, and Team Performance (15 minutes)
 
-#### Opening with Evidence (3 minutes)
+### Opening with Evidence (3 minutes)
 **Research Foundation:** "Three key findings from team performance research:"
 
 1. **Diverse teams outperform homogeneous teams** on complex problems (Page 2007)
@@ -11,7 +11,7 @@
 
 **Key Insight:** "Diversity is about composition. Inclusion is about behavior."
 
-#### Understanding Different Types of Diversity (4 minutes)
+### Understanding Different Types of Diversity (4 minutes)
 **Surface-Level Diversity:**
 
 - Demographics: gender, race, age, nationality
@@ -28,7 +28,7 @@
 
 **Why This Matters:** "Surface-level diversity is what we see first, but deep-level diversity often drives the performance benefits."
 
-#### The Contact Theory Application (3 minutes)
+### The Contact Theory Application (3 minutes)
 **Allport's Contact Theory:** Under the right conditions, contact between different groups reduces bias and improves collaboration.
 
 **The Right Conditions for Research Teams:**
@@ -40,7 +40,7 @@
 
 **Practical Application:** "This means actively creating opportunities for different team members to work together as equals on shared objectives."
 
-#### Inclusion Strategies That Work (5 minutes)
+### Inclusion Strategies That Work (5 minutes)
 **Strategy 1: Structured Brainstorming**
 
 - **Problem:** Extroverted team members dominate idea generation
@@ -66,9 +66,9 @@
 - **Problem:** Different professional cultures have different norms
 - **Solution:** Explicit discussion of differences, negotiated team norms
 
-### Activity 5: Inclusion Audit and Action Planning (15 minutes)
+## Activity 5: Inclusion Audit and Action Planning (15 minutes)
 
-#### Individual Assessment (5 minutes)
+### Individual Assessment (5 minutes)
 **Instructions:** "Think about a current or recent research collaboration. Rate how well the team does on each inclusion indicator using a 1-5 scale."
 
 **Inclusion Indicators:**
@@ -88,7 +88,7 @@
 - Notice if people seem stuck - offer to clarify any indicators
 - This should be reflective, not judgmental
 
-#### Pair Planning (10 minutes)
+### Pair Planning (10 minutes)
 **Partner Assignment:** "Find someone you don't know well or haven't worked with closely."
 
 **Conversation Structure:**

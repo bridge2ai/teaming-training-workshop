@@ -1,6 +1,6 @@
 # Troubleshooting Common Facilitation Challenges
 
-### Low Participation
+## Low Participation
 **Symptoms:** Quiet groups, minimal discussion, brief activity outputs
 **Interventions:**
 
@@ -9,7 +9,7 @@
 - Model vulnerability by sharing your own experiences
 - Use anonymous input methods (sticky notes, digital polls)
 
-### Resistance to "Soft Skills"
+## Resistance to "Soft Skills"
 **Symptoms:** Comments like "This is just common sense" or "We need to focus on the science"
 **Responses:**
 
@@ -18,7 +18,7 @@
 - Share failure stories from high-profile collaborations
 - Acknowledge their expertise while highlighting collaboration complexity
 
-### Time Management Issues
+## Time Management Issues
 **Symptoms:** Activities running long, content blocks getting rushed
 **Solutions:**
 
@@ -27,7 +27,7 @@
 - Have abbreviated versions of activities ready
 - Cut content, not activities - the practice is more valuable
 
-### Dominating Participants
+## Dominating Participants
 **Symptoms:** Same people speaking repeatedly, others withdrawing
 **Interventions:**
 
@@ -36,7 +36,7 @@
 - Address privately during breaks if necessary
 - Use written activities to balance participation
 
-### Skepticism About Evidence
+## Skepticism About Evidence
 **Symptoms:** "That research doesn't apply to our field/situation"
 **Responses:**
 
@@ -45,7 +45,7 @@
 - Focus on principles rather than specific practices
 - Invite them to test and report back
 
-### Technology Failures
+## Technology Failures
 **Symptoms:** Platform crashes, connectivity issues, lost materials
 **Preparation:**
 

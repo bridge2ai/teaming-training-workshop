@@ -1,13 +1,13 @@
 # Module 1: Foundations of Team Science (30 minutes)
 
-### Content Block: What Makes Teams Work (15 minutes)
+## Content Block: What Makes Teams Work (15 minutes)
 
-#### Opening Hook (3 minutes)
+### Opening Hook (3 minutes)
 **Say:** "Raise your hand if you've ever been part of a research collaboration that felt effortless and productive." [Pause for hands] "Keep your hand up if you've been part of one that was frustrating or unproductive." [Usually more hands go up]
 
 **Transition:** "Today we're going to unpack why some collaborations soar while others struggle, using evidence from the science of team science itself."
 
-#### Key Message 1: The Collaboration Imperative (4 minutes)
+### Key Message 1: The Collaboration Imperative (4 minutes)
 **Data to Share:**
 
 - 2007 study of 19.9 million papers showed teams produce higher-impact research
@@ -20,7 +20,7 @@
 
 **Bridge:** "But collaboration isn't automatically better - it has to be done well."
 
-#### Key Message 2: When Teams Fail (4 minutes)
+### Key Message 2: When Teams Fail (4 minutes)
 **Common Failure Modes (present as bullets on slide):**
 
 - **Coordination loss:** Too much time spent organizing, not enough creating
@@ -31,7 +31,7 @@
 
 **Facilitator Note:** Don't dwell on failures - this sets up the solution-focused content ahead.
 
-#### Key Message 3: Success Factors (4 minutes)
+### Key Message 3: Success Factors (4 minutes)
 **The IMPACT Framework:**
 
 - **I**nterdependence: Members need each other to succeed
@@ -43,9 +43,9 @@
 
 **Facilitator Tip:** This framework threads through the entire training - refer back to it throughout.
 
-### Activity 1: Team Science Assessment (15 minutes)
+## Activity 1: Team Science Assessment (15 minutes)
 
-#### Individual Reflection (5 minutes)
+### Individual Reflection (5 minutes)
 **Instructions to Give:**
 "Think of a research collaboration you've been part of - current or recent. Rate it on these six dimensions using a 1-5 scale, where 1 is 'major weakness' and 5 is 'major strength.' Be honest - this is for your learning."
 
@@ -64,7 +64,7 @@
 - Give 1-minute and 30-second warnings
 - Model reflection by jotting your own notes
 
-#### Small Group Discussion (10 minutes)
+### Small Group Discussion (10 minutes)
 **Instructions:**
 "Form groups of 4-5. Each person shares:
 1. One area where your team was strongest (highest score)
@@ -82,7 +82,7 @@
 - **Strengths:** Often include shared excitement about the problem, clear expertise divisions, strong PI leadership
 - **Challenges:** Frequently communication breakdowns, unclear roles, data sharing difficulties, conflict avoidance
 
-#### Debrief (5 minutes)
+### Debrief (5 minutes)
 **Process:**
 
 1. "What themes did you hear in your groups about team strengths?"

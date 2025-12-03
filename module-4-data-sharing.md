@@ -1,13 +1,13 @@
 # Module 4: Data Sharing and Resource Management (35 minutes)
 
-### Content Block: Collaborative Data Practices (15 minutes)
+## Content Block: Collaborative Data Practices (15 minutes)
 
-#### Opening Reality Check (2 minutes)
+### Opening Reality Check (2 minutes)
 **Ask:** "How many of you have been part of a collaboration where data sharing was seamless and easy?" [Few hands usually go up]
 
 **Say:** "Data sharing is often the biggest practical barrier to effective collaboration. Let's look at frameworks that make it work."
 
-#### The FAIR+ Framework (4 minutes)
+### The FAIR+ Framework (4 minutes)
 **Present Framework:** "The FAIR principles were designed for open science, but we need to extend them for collaborative team science."
 
 **FAIR Principles:**
@@ -21,7 +21,7 @@
 
 - **Secure:** Privacy, confidentiality, and compliance protections
 
-#### Findable: Shared Repositories and Metadata (2 minutes)
+### Findable: Shared Repositories and Metadata (2 minutes)
 **Common Problem:** "The data exists somewhere, but no one can find it when they need it."
 
 **Solutions:**
@@ -33,7 +33,7 @@
 
 **Quick Example:** "Instead of 'Analysis_final_v3_JMS.xlsx', use '2024-03-15_participant-survey_cleaned_smith.xlsx'"
 
-#### Accessible: Permission Systems (3 minutes)
+### Accessible: Permission Systems (3 minutes)
 **Key Principle:** "Default to open within the team, closed to the outside, with explicit exceptions."
 
 **Access Levels:**
@@ -49,7 +49,7 @@
 - **Version control systems** (Git for code, specialized tools for data)
 - **Access logging** for sensitive data compliance
 
-#### Interoperable: Compatible Formats (2 minutes)
+### Interoperable: Compatible Formats (2 minutes)
 **Common Failure:** "Everyone saves data in their preferred format, nothing works together."
 
 **Best Practices:**
@@ -59,7 +59,7 @@
 - **Common coding schemes** for categorical variables
 - **Documentation templates** that everyone uses
 
-#### Reusable: Documentation and Licensing (2 minutes)
+### Reusable: Documentation and Licensing (2 minutes)
 **The Documentation Imperative:** "If you can't understand the data 6 months from now, no one else will either."
 
 **Essential Documentation:**
@@ -69,9 +69,9 @@
 - **Quality control procedures** and known limitations
 - **Analysis scripts** with comments explaining logic
 
-### Activity 4: Data Sharing Agreement Simulation (20 minutes)
+## Activity 4: Data Sharing Agreement Simulation (20 minutes)
 
-#### Role Assignment and Scenario Setup (3 minutes)
+### Role Assignment and Scenario Setup (3 minutes)
 **Scenario:** Multi-site study examining social media use and mental health outcomes among adolescents. Site A (major university) has collected data from 500 participants. Site B (smaller college) wants to access this data for secondary analysis.
 
 **Roles (5 people per group):**
@@ -89,7 +89,7 @@
 - Site A IRB approval required for data sharing
 - Site B has different data security infrastructure
 
-#### Negotiation Phase (15 minutes)
+### Negotiation Phase (15 minutes)
 **Instructions to Groups:**
 "You have 15 minutes to negotiate a data sharing agreement. You must address these issues:"
 
@@ -116,7 +116,7 @@
 - **Technical security requirements vs. practical constraints**
 - **What happens if Site B violates the agreement**
 
-#### Debrief Discussion (7 minutes)
+### Debrief Discussion (7 minutes)
 **Debrief Questions:**
 
 1. "What was hardest to negotiate? Why?"

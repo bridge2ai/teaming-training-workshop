@@ -1,6 +1,4 @@
----
-title: "Team Science Training Workshop"
----
+# Team Science Training Workshop
 
 ## Workshop Overview
 

@@ -1,11 +1,11 @@
 # Module 3: Governance and Leadership Models (40 minutes)
 
-### Content Block: Governance Structures That Work (20 minutes)
+## Content Block: Governance Structures That Work (20 minutes)
 
-#### Opening Connection (2 minutes)
+### Opening Connection (2 minutes)
 **Say:** "Communication helps teams work day-to-day, but governance determines how teams make big decisions and handle authority. Let's look at what research tells us about structures that actually work."
 
-#### Governance vs. Management Distinction (3 minutes)
+### Governance vs. Management Distinction (3 minutes)
 **Key Distinction:**
 
 - **Management:** Day-to-day operations, task coordination, resource allocation
@@ -13,7 +13,7 @@
 
 **Why It Matters:** "Many teams focus only on management and wonder why they struggle with bigger decisions."
 
-#### Model 1: Distributed Leadership (4 minutes)
+### Model 1: Distributed Leadership (4 minutes)
 **Core Principle:** Different people lead different aspects based on expertise and interest.
 
 **Research Support:** Pearce & Conger's studies show distributed leadership increases team performance in knowledge work.
@@ -30,7 +30,7 @@
 
 **When It Works Best:** Diverse, highly skilled teams with complex projects
 
-#### Model 2: Rotating Leadership (3 minutes)
+### Model 2: Rotating Leadership (3 minutes)
 **Core Principle:** Leadership rotates based on project phase or expertise needs.
 
 **Real Example:** "In the Human Genome Project, different institutions led different phases based on their comparative advantages."
@@ -44,7 +44,7 @@
 **Pros:** Matches expertise to needs, develops multiple leaders
 **Cons:** Requires smooth handoffs, can create discontinuity
 
-#### Model 3: Collaborative Hierarchy (4 minutes)
+### Model 3: Collaborative Hierarchy (4 minutes)
 **Core Principle:** Clear hierarchy with democratic input mechanisms.
 
 **Research Support:** Tannenbaum & Schmidt's leadership continuum research shows this balances efficiency with engagement.
@@ -64,7 +64,7 @@
 **Pros:** Clear accountability, incorporates diverse input, efficient
 **Cons:** Can feel top-down if not implemented well
 
-#### Model 4: Network Governance (4 minutes)
+### Model 4: Network Governance (4 minutes)
 **Core Principle:** Hub-and-spoke coordination across autonomous units.
 
 **Real Example:** "Think of how the Large Hadron Collider collaboration works - thousands of scientists across hundreds of institutions."
@@ -80,9 +80,9 @@
 
 **Key Success Factor:** Strong coordination mechanisms and shared standards
 
-### Activity 3: Governance Design Challenge (20 minutes)
+## Activity 3: Governance Design Challenge (20 minutes)
 
-#### Scenario Assignment (2 minutes)
+### Scenario Assignment (2 minutes)
 **Four Scenarios - Assign One Per Team:**
 
 1. **Multi-institutional Clinical Trial**
@@ -105,7 +105,7 @@
    - Proprietary data concerns, different timelines
    - Academic freedom vs. commercial interests
 
-#### Design Phase (15 minutes)
+### Design Phase (15 minutes)
 **Instructions to Teams:**
 "Design a governance structure for your scenario. Address these key elements:"
 
@@ -134,7 +134,7 @@
 - **Teams create overly complex structures** → "How would new team members understand this?"
 - **Teams ignore the human dynamics** → "What about trust, communication, relationships?"
 
-#### Gallery Walk and Voting (3 minutes)
+### Gallery Walk and Voting (3 minutes)
 **Process:**
 
 1. Teams post their governance designs around the room

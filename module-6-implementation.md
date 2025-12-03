@@ -1,8 +1,8 @@
 # Module 6: Implementation and Sustainability (20 minutes)
 
-### Content Block: Making It Stick (10 minutes)
+## Content Block: Making It Stick (10 minutes)
 
-#### The Implementation Challenge (2 minutes)
+### The Implementation Challenge (2 minutes)
 **Reality Check:** "Research on training effectiveness shows that without deliberate implementation support, people use about 10% of what they learn in programs like this."
 
 **Why Implementation Fails:**
@@ -11,7 +11,7 @@
 - Trying to change too much at once
 - No accountability mechanisms
 
-#### The Start Small Strategy (3 minutes)
+### The Start Small Strategy (3 minutes)
 **Pilot Approach:** "Pick one practice, try it with one team, for one month."
 
 **Examples of Good Starting Points:**
@@ -23,7 +23,7 @@
 
 **Why This Works:** Small wins build confidence and demonstrate value before scaling up.
 
-#### Measurement and Iteration (2 minutes)
+### Measurement and Iteration (2 minutes)
 **Simple Metrics for Team Effectiveness:**
 
 - **Efficiency:** Meeting satisfaction scores, time to decision
@@ -33,7 +33,7 @@
 
 **The Learning Mindset:** "Expect that your first attempts won't be perfect. The goal is to learn and improve, not to implement flawlessly."
 
-#### Scaling Thoughtfully (3 minutes)
+### Scaling Thoughtfully (3 minutes)
 **Scaling Principles:**
 
 1. **Adapt, don't just adopt:** What works for one team may need modification for another
@@ -47,9 +47,9 @@
 - Ignoring context differences
 - Moving too fast without solidifying early wins
 
-### Activity 6: Personal Action Planning (10 minutes)
+## Activity 6: Personal Action Planning (10 minutes)
 
-#### Action Planning Template (8 minutes)
+### Action Planning Template (8 minutes)
 **Instructions:** "Complete this action plan for yourself. Be specific and realistic."
 
 **Template Elements:**
@@ -77,7 +77,7 @@
 - Help people make their commitments specific and measurable
 - Connect people who might be good accountability partners
 
-#### Voluntary Sharing (2 minutes)
+### Voluntary Sharing (2 minutes)
 **Process:** "Would anyone like to share one commitment with the group? This can help with accountability."
 
 **Why This Works:** Public commitments have higher follow-through rates.

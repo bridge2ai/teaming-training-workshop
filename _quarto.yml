@@ -1,18 +1,28 @@
 project:
-  type: website
+  type: book
   output-dir: _site
 
-website:
+book:
   title: "Team Science Training Workshop"
-  navbar:
-    left:
-      - text: "Home"
-        href: index.qmd
-      - text: "Facilitator Guide"
-        href: facilitator-guide.md
+  chapters:
+    - index.md
+    - pre-session-preparation.md
+    - module-1-foundations.md
+    - module-2-communication.md
+    - module-3-governance.md
+    - module-4-data-sharing.md
+    - module-5-inclusion.md
+    - module-6-implementation.md
+  appendices:
+    - post-session-follow-up.md
+    - troubleshooting.md
+    - materials-checklist.md
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: cosmo
+      dark: darkly
+    theme-toggle: true
+    respect-user-color-scheme: true
     toc: true

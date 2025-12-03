@@ -1,11 +1,11 @@
 # Module 2: Communication Architecture (45 minutes)
 
-### Content Block: Evidence-Based Communication Strategies (20 minutes)
+## Content Block: Evidence-Based Communication Strategies (20 minutes)
 
-#### Opening Bridge (2 minutes)
+### Opening Bridge (2 minutes)
 **Say:** "In that last activity, how many groups mentioned communication as a challenge?" [Show of hands] "Communication issues aren't just annoying - they're expensive. MIT research shows that poor communication costs organizations an average of $62.4 million per year."
 
-#### The 4C Framework Introduction (3 minutes)
+### The 4C Framework Introduction (3 minutes)
 **Present Framework:**
 "Effective team communication has four essential elements - the 4 C's:"
 
@@ -13,7 +13,7 @@
 
 "Let's unpack each one with some science behind it."
 
-#### Clarity: Structured Information Sharing (4 minutes)
+### Clarity: Structured Information Sharing (4 minutes)
 **Research Basis:** Hackman's research on team design shows that clarity of purpose and process predicts team success better than member characteristics.
 
 **Practical Application:**
@@ -27,7 +27,7 @@
 
 **Listen for:** Duplicated work, missed deadlines, conflict, frustration
 
-#### Cadence: Regular, Predictable Touchpoints (3 minutes)
+### Cadence: Regular, Predictable Touchpoints (3 minutes)
 **Research Basis:** Gersick's punctuated equilibrium model shows teams need regular check-ins to maintain momentum and adjust course.
 
 **Practical Framework:**
@@ -39,7 +39,7 @@
 
 **Key Point:** "Consistency matters more than frequency. Better to have monthly meetings that always happen than weekly ones that get cancelled."
 
-#### Channels: Right Medium for the Message (4 minutes)
+### Channels: Right Medium for the Message (4 minutes)
 **Research Basis:** Media richness theory - different types of information need different communication channels.
 
 **Channel Selection Guide:**
@@ -52,7 +52,7 @@
 
 **Common Mistake:** "Using email for everything. Email is terrible for discussions but great for decisions."
 
-#### Culture: Psychological Safety and Inclusion (4 minutes)
+### Culture: Psychological Safety and Inclusion (4 minutes)
 **Research Basis:** Google's Project Aristotle found psychological safety was the #1 predictor of team performance.
 
 **Edmondson's Definition:** "A shared belief that the team is safe for interpersonal risk-taking."
@@ -66,14 +66,14 @@
 
 **Key Insight:** "This doesn't mean being 'nice' all the time - it means being direct and kind simultaneously."
 
-### Activity 2: Communication Charter Workshop (25 minutes)
+## Activity 2: Communication Charter Workshop (25 minutes)
 
-#### Setup and Instructions (3 minutes)
+### Setup and Instructions (3 minutes)
 **Form Teams:** "Count off 1-5, find your number group. You're going to create a communication charter that a real research team could use."
 
 **Materials:** Provide charter template, example excerpts, channel decision tree
 
-#### Phase 1: Charter Development (10 minutes)
+### Phase 1: Charter Development (10 minutes)
 **Instructions to Teams:**
 "Imagine you're starting a 2-year collaborative research project. Create a communication charter addressing these areas:"
 
@@ -97,7 +97,7 @@
 - **"Our team is different"** → "Absolutely - customize this to your context"
 - **"We don't have time for all these meetings"** → "What's the cost of poor coordination?"
 
-#### Phase 2: Peer Feedback (10 minutes)
+### Phase 2: Peer Feedback (10 minutes)
 **Process:**
 1. Teams pair up and exchange charters
 2. Each team provides feedback using this structure:
@@ -117,7 +117,7 @@
 - Help teams stay on time
 - Note particularly creative solutions for later sharing
 
-#### Phase 3: Revision (2 minutes)
+### Phase 3: Revision (2 minutes)
 "Take the feedback you received and make one concrete revision to your charter."
 
 **Why This Matters:** Teams that practice giving and receiving feedback in low-stakes situations do better when conflicts arise.
