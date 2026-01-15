@@ -1,32 +1,32 @@
-# Module 5: Building Inclusive and Productive Teams (30 minutes)
+# Module 5: Building Multidisciplinary and Productive Teams (30 minutes)
 
-## Content Block: Diversity, Equity, and Team Performance (15 minutes)
+## Content Block: Multidisciplinary, Integrity, and Team Performance (15 minutes)
 
 ### Opening with Evidence (3 minutes)
 **Research Foundation:** "Three key findings from team performance research:"
 
-1. **Diverse teams outperform homogeneous teams** on complex problems (Page 2007)
-2. **But diversity alone isn't enough** - inclusion practices determine whether diversity helps or hurts (Nishii 2013)
+1. **Multidisciplinary teams outperform homogeneous teams** on complex problems (Page 2007)
+2. **But multidisciplinary alone isn't enough** - inclusion practices determine whether enagaging a broder scope of disciplines helps or hurts (Nishii 2013)
 3. **Small changes in process can have big impacts** on who participates and how (Woolley 2010)
 
-**Key Insight:** "Diversity is about composition. Inclusion is about behavior."
+**Key Insight:** "Multidisciplinarity is about composition. Ensuring we engage everyone is about behavior."
 
 ### Understanding Different Types of Diversity (4 minutes)
-**Surface-Level Diversity:**
+**Surface-Level Multidisciplinarity:**
 
 - Demographics: gender, race, age, nationality
 - Disciplinary backgrounds
 - Institutional affiliations
 - Career stages
 
-**Deep-Level Diversity:**
+**Deep-Level Multidisciplinarity:**
 
 - Thinking styles (analytical vs. intuitive)
 - Work preferences (individual vs. collaborative)
 - Communication styles (direct vs. indirect)
 - Risk tolerance (conservative vs. experimental)
 
-**Why This Matters:** "Surface-level diversity is what we see first, but deep-level diversity often drives the performance benefits."
+**Why This Matters:** "Surface-level multidisciplinarity is what we see first, but deep-level multidisciplinarity often drives the performance benefits."
 
 ### The Contact Theory Application (3 minutes)
 **Allport's Contact Theory:** Under the right conditions, contact between different groups reduces bias and improves collaboration.
@@ -73,8 +73,8 @@
 
 **Inclusion Indicators:**
 
-1. **Diverse representation** in leadership and decision-making roles
-2. **Equitable participation** in meetings and discussions
+1. **Broad representation** in leadership and decision-making roles
+2. **Impartial participation** in meetings and discussions
 3. **Multiple communication styles** are accommodated and valued
 4. **Different perspectives** are actively sought on important decisions
 5. **Cultural differences** are acknowledged and leveraged as strengths
@@ -111,6 +111,6 @@
 
 **Common Challenges and Responses:**
 
-- **"Our team is already pretty inclusive"** → "That's great! What could you share with other teams?"
+- **"Our team is already pretty multidisciplinary"** → "That's great! What could you share with other teams?"
 - **"These problems are too big for me to solve"** → "What's one small experiment you could try?"
 - **"I'm not in a leadership position"** → "What can you influence from your current role?"
