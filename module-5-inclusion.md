@@ -40,7 +40,7 @@
 
 **Practical Application:** "This means actively creating opportunities for different team members to work together as equals on shared objectives."
 
-### Inclusion Strategies That Work (5 minutes)
+### Participation Strategies That Work (5 minutes)
 **Strategy 1: Structured Brainstorming**
 
 - **Problem:** Extroverted team members dominate idea generation
@@ -66,7 +66,7 @@
 - **Problem:** Different professional cultures have different norms
 - **Solution:** Explicit discussion of differences, negotiated team norms
 
-## Activity 5: Inclusion Audit and Action Planning (15 minutes)
+## Activity 5: Participation Audit and Action Planning (15 minutes)
 
 ### Individual Assessment (5 minutes)
 **Instructions:** "Think about a current or recent research collaboration. Rate how well the team does on each inclusion indicator using a 1-5 scale."
