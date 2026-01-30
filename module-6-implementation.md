@@ -37,13 +37,15 @@
 **Scaling Principles:**
 
 1. **Adapt, don't just adopt:** What works for one team may need modification for another
-2. **Build champions:** Find early adopters who can help spread practices
-3. **Create systems support:** Templates, training, and infrastructure
-4. **Address resistance:** Understand and respond to legitimate concerns
+2. **Build champions:** Find early adopters, preferably respected individuals with formal or informal influence, who can help spread practices
+3. **Communicate, communicate, communicate:** what you’re planning and why; what you’re doing when you’re doing it; and what you’ve done, how it went, and what you will do differently
+4. **Create systems support:** Templates, training, and infrastructure
+5. **Address resistance:** Understand and respond to legitimate concerns; treat resistance as an opportunity for potential learning; often most productive to persuade fence-sitters first
 
 **Common Scaling Mistakes:**
 
 - Mandating practices without buy-in
+- Insufficient communication
 - Ignoring context differences
 - Moving too fast without solidifying early wins
 
