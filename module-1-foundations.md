@@ -26,7 +26,7 @@
 - **Coordination loss:** Too much time spent organizing, not enough creating
 - **Social loafing:** Some members contribute less in group settings
 - **Groupthink:** Pressure for consensus stifles critical thinking
-- **Process conflict:** Disagreements about how to work together
+- **Unresolved process conflict:** Disagreements about how to work together
 - **Goal misalignment:** Different objectives or success metrics
 
 **Facilitator Note:** Don't dwell on failures - this sets up the solution-focused content ahead.
