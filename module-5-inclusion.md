@@ -1,6 +1,6 @@
-# Module 5: Building Multidisciplinary and Productive Teams (30 minutes)
+# Module 5: Effective Interdisciplinary Teams (30 minutes)
 
-## Content Block: Multidisciplinary, Integrity, and Team Performance (15 minutes)
+## Content Block: Effective Interdisciplinary Teams (15 minutes)
 
 ### Opening with Evidence (3 minutes)
 **Research Foundation:** "Three key findings from team performance research:"
@@ -11,7 +11,12 @@
 
 **Key Insight:** "Multidisciplinarity is about composition. Ensuring we engage everyone is about behavior."
 
-### Understanding Different Types of Diversity (4 minutes)
+### What is Interdisciplinary/Understanding Different Types of Multidisciplinarity/What makes an interdisciplinary team effective (4 minutes)
+Continuum of monodisciplinary to transdisciplinary– FEEDBACK where your team is on the continuum.  Where would you like to be? 
+
+What makes a good multidisciplinary team– Edmondson Diversity, Pysch Safety, Inclusive Leadership, Deliberate Processes and Practices.
+Hackman principles.
+
 **Surface-Level Multidisciplinarity:**
 
 - Demographics: gender, race, age, nationality
@@ -25,15 +30,16 @@
 - Work preferences (individual vs. collaborative)
 - Communication styles (direct vs. indirect)
 - Risk tolerance (conservative vs. experimental)
+- Skillsets (technical vs interpersonal)
 
-**Why This Matters:** "Surface-level multidisciplinarity is what we see first, but deep-level multidisciplinarity often drives the performance benefits."
+**Why This Matters:** 
 
 ### The Contact Theory Application (3 minutes)
 **Allport's Contact Theory:** Under the right conditions, contact between different groups reduces bias and improves collaboration.
 
 **The Right Conditions for Research Teams:**
 
-1. **Equal status** within the collaboration context
+1. **Equal status** within the collaboration context, despite formal authority and status differences
 2. **Common goals** that require interdependence
 3. **Intergroup contact** in cooperative (not competitive) settings
 4. **Authority support** for collaborative norms
@@ -111,6 +117,6 @@
 
 **Common Challenges and Responses:**
 
-- **"Our team is already pretty multidisciplinary"** → "That's great! What could you share with other teams?"
-- **"These problems are too big for me to solve"** → "What's one small experiment you could try?"
-- **"I'm not in a leadership position"** → "What can you influence from your current role?"
+- **"Our team is already pretty multidisciplinary."** → "That's great! What could you share with other teams?"
+- **"These problems are too big for me to solve."** → "What's one small experiment you could try?"
+- **"I'm not in a leadership position."** → "What can you influence from your current role?"
