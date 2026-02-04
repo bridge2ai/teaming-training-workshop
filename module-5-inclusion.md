@@ -1,4 +1,4 @@
-# Module 5: Effective Interdisciplinary Teams (30 minutes)
+# Module 5: Effective Interdisciplinary Teams (40 minutes)
 
 ## Content Block: Effective Interdisciplinary Teams (15 minutes)
 
@@ -17,14 +17,14 @@ Continuum of monodisciplinary to transdisciplinary– FEEDBACK where your team i
 What makes a good multidisciplinary team– Edmondson Diversity, Pysch Safety, Inclusive Leadership, Deliberate Processes and Practices.
 Hackman principles.
 
-**Surface-Level Multidisciplinarity:**
+**Surface-Level Heterogeneity:**
 
 - Demographics: gender, race, age, nationality
 - Disciplinary backgrounds
 - Institutional affiliations
 - Career stages
 
-**Deep-Level Multidisciplinarity:**
+**Deep-Level Heterogeneity:**
 
 - Thinking styles (analytical vs. intuitive)
 - Work preferences (individual vs. collaborative)
@@ -43,6 +43,8 @@ Hackman principles.
 2. **Common goals** that require interdependence
 3. **Intergroup contact** in cooperative (not competitive) settings
 4. **Authority support** for collaborative norms
+
+Social, Cognitive, Knowledge and Contextual integration– being intentional, knowing each other, being together 
 
 **Practical Application:** "This means actively creating opportunities for different team members to work together as equals on shared objectives."
 

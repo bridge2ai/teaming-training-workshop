@@ -1,4 +1,4 @@
-# Module 4: Data Sharing and Resource Management (30 minutes)
+# Module 4: Data Sharing and Resource Management (40 minutes)
 
 ## Content Block: Collaborative Data Practices (15 minutes)
 

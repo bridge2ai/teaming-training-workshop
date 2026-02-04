@@ -1,91 +1,33 @@
-# Module 6: Implementation and Sustainability (20 minutes)
+# Module 6: Implementation and Sustainability (40 minutes)
 
-## Content Block: Making It Stick (10 minutes)
+## Content Block: The Monday Morning Protocol (5 minutes)
+The goal is for participants to leave not just with a plan, but with a designed experiment to introduce one team science practice to their lab.
 
-### The Implementation Challenge (2 minutes)
-**Reality Check:** "Research on training effectiveness shows that without deliberate implementation support, people use about 10% of what they learn in programs like this."
+### The Hook(The Implementation Challenge) (5 minutes)
+- **Facilitator:** "We know that 90% of training is lost without implementation support.Your labs are busy, stressed, and resistant to change. We aren't going to overhaul your lab culture overnight. We are going to run a scientific experiment on your team's process."
+- **Concept:** Briefly introduce the Know-Do Gap and Resistance as natural forces to be navigated, not fought.
 
-**Why Implementation Fails:**
-- Return to urgent daily pressures
-- Lack of organizational support
-- Trying to change too much at once
-- No accountability mechanisms
+| Concept | The Trap | The Strategy |
+|:---|:---|:---|
+| The Know-Do Gap | Assuming that learning information automatically leads to behavior change. | Design for the Hot State: Create checklists and defaults that work when you are stressed and busy. |
+| Resistance | Viewing skepticism as "being difficult" or "anti-collaboration." | The Pilot Method: Lower the stakes. Don't ask for a permanent change; ask for a temporary experiment. |
 
-### The Start Small Strategy (3 minutes)
-**Pilot Approach:** "Pick one practice, try it with one team, for one month."
+**The facilitator can share the following:** 
+We have spent 5 modules learning what to do. But research shows there is a 'Valley of Death' between learning a concept and applying it. This is the Know-Do Gap.
+In this workshop, you are currently in a 'cold' state—you are calm, rational, and reflective. On Monday morning, you will return to a 'hot' state—stressed, rushing for grant deadlines, and managing complex personalities. The Know-Do gap happens because we try to apply 'cold' logic to 'hot' situations without a bridge. Today is about building that bridge.
 
-**Examples of Good Starting Points:**
 
-- **Communication:** Implement structured agendas for one regular meeting
-- **Governance:** Create decision logs for one ongoing project
-- **Data sharing:** Establish naming conventions for one shared folder
-- **Inclusion:** Try silent brainstorming in one team meeting
+## Activity 6: The Monday Morning Protocol (35 minutes)
 
-**Why This Works:** Small wins build confidence and demonstrate value before scaling up.
+### The Design Sprint (Start Small & Measurement) (20 minutes)
+- **Step 1: Select the Variable (5 mins):** Participants pick one friction point from Modules 1-5 (e.g., "Meetings go overtime," "Data is hard to find," "Unclear authorship").
+- **Step 2: Design the Micro-Pilot (10 mins):** Instead of a "policy," they design a **2-week pilot**. (Constraint: It must require zero budget and zero permission to start (e.g., "I will send an agenda 24 hours before my next update meeting," not "We will change how the whole lab meets").)
+- **Step 3: Define the Metric (5 mins):** How will they know it worked? (e.g., "Meeting ended 5 mins early," "PI replied to email within 24 hours"). This covers the **Measurement** block.
 
-### Measurement and Iteration (2 minutes)
-**Simple Metrics for Team Effectiveness:**
+### The Reality Check (Scaling Thoughtfully) (10 minutes)
+- **Peer Consulting (10 mins):** Pairs swap plans. The partner plays the role of the Skeptic/System (e.g., a busy PI or cynical post-doc). They identify one reason the pilot will fail.
+- The proposer must identify **one Champion** (who will support this?) and **one Structural Fix** (template, checklist) to address the skeptic. This covers the **Scaling** block.
 
-- **Efficiency:** Meeting satisfaction scores, time to decision
-- **Innovation:** Number of new ideas generated, creative solutions adopted
-- **Relationships:** Trust levels, conflict resolution speed
-- **Outcomes:** Progress toward goals, quality of deliverables
-
-**The Learning Mindset:** "Expect that your first attempts won't be perfect. The goal is to learn and improve, not to implement flawlessly."
-
-### Scaling Thoughtfully (3 minutes)
-**Scaling Principles:**
-
-1. **Adapt, don't just adopt:** What works for one team may need modification for another
-2. **Build champions:** Find early adopters, preferably respected individuals with formal or informal influence, who can help spread practices
-3. **Communicate, communicate, communicate:** what you’re planning and why; what you’re doing when you’re doing it; and what you’ve done, how it went, and what you will do differently
-4. **Create systems support:** Templates, training, and infrastructure
-5. **Address resistance:** Understand and respond to legitimate concerns; treat resistance as an opportunity for potential learning; often most productive to persuade fence-sitters first
-
-**Common Scaling Mistakes:**
-
-- Mandating practices without buy-in
-- Insufficient communication
-- Ignoring context differences
-- Moving too fast without solidifying early wins
-
-## Activity 6: Personal Action Planning (10 minutes)
-
-### Action Planning Template (8 minutes)
-**Instructions:** "Complete this action plan for yourself. Be specific and realistic."
-
-**Template Elements:**
-1. **One thing I'll stop doing** in my research collaborations
-   - *Example: Stop sending unclear emails that require multiple follow-ups*
-
-2. **One thing I'll start doing** within the next 30 days
-   - *Example: Create a communication charter for my current project team*
-
-3. **One practice I'll advocate for** in my existing teams
-   - *Example: Propose using structured brainstorming for our next planning meeting*
-
-4. **My accountability partner** from this session
-   - *Name and contact information of someone who will check in with you*
-
-5. **Check-in date** to assess progress
-   - *Specific date within 60 days to review how implementation is going*
-
-6. **One resource I need** to make this work
-   - *Example: Template for data sharing agreements, support from my department chair*
-
-**Facilitator Role:**
-
-- Circulate to answer questions and provide encouragement
-- Help people make their commitments specific and measurable
-- Connect people who might be good accountability partners
-
-### Voluntary Sharing (2 minutes)
-**Process:** "Would anyone like to share one commitment with the group? This can help with accountability."
-
-**Why This Works:** Public commitments have higher follow-through rates.
-
-**Facilitation Tips:**
-
-- Don't pressure anyone to share
-- Celebrate creative or ambitious commitments
-- Note themes across commitments
+### Debrief & Commitment (5 minutes)
+- Ask 2-3 volunteers to share their Micro-Pilot.
+- Facilitator Closing: Sustainability isn't about giant leaps; it's about successful pilots that get scaled because they work.

@@ -3,7 +3,7 @@
 ## Content Block: What Makes Teams Work (15 minutes)
 
 ### Opening Hook (3 minutes)
-**Say:** "Raise your hand if you've ever been part of a research collaboration that felt effortless and productive." [Pause for hands] "Keep your hand up if you've been part of one that was frustrating or unproductive." [Usually more hands go up]
+**Say:** "Raise your hand if you've ever been part of a collaboration that felt effortless and productive." [Pause for hands] "Keep your hand up if you've been part of one that was frustrating or unproductive." [Usually more hands go up]
 
 **Transition:** "Today we're going to unpack why some collaborations soar while others struggle, using evidence from the science of team science itself."
 
@@ -64,7 +64,7 @@
 - Give 1-minute and 30-second warnings
 - Model reflection by jotting your own notes
 
-### Small Group Discussion (10 minutes)
+### Small Group Discussion (5 minutes)
 **Instructions:**
 "Form groups of 4-5. Each person shares:
 1. One area where your team was strongest (highest score)
