@@ -24,7 +24,7 @@
 
 ### Key Message 3: Defining the Spectrum of Collaboration (2 minutes)
 
-**Facilitator Note:** Move from the personal to the structural. Help them see that Collaboration isn't one thing; it's a spectrum.
+**Facilitator Note:** Move from the personal to the structural. Help them see that collaboration isn't one thing; it's a spectrum.
 
 - **Micro:** Acknowledge the traditional model: 2–3 colleagues from the same department working on a paper. The communication cost is low; the shared language is high.
 - **Macro (Consortium):** Contrast this with the reality of Bridge2AI. This is Team Science at scale—hundreds of researchers across different institutions, time zones, and vocabularies (e.g., clinicians vs. coders).
