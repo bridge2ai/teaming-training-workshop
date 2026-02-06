@@ -20,8 +20,7 @@ This training workshop aims to equip participants with the knowledge, skills, an
 
 ### 3. Design Governance Structures
 - Understand different leadership models (distributed, rotating, collaborative hierarchy, network governance)
-- Design governance structures appropriate for specific collaboration contexts
-- Create clear decision-making processes and accountability structures
+- Fireside chat with leaders and experts from around the country
 
 ### 4. Manage Data and Resources Collaboratively
 - Apply FAIR+ principles (Findable, Accessible, Interoperable, Reusable, Secure) to team data practices
@@ -34,9 +33,10 @@ This training workshop aims to equip participants with the knowledge, skills, an
 - Address bias and create equitable participation structures
 
 ### 6. Implement Sustainable Practices
-- Develop personal action plans for improving team collaboration
-- Start with small, measurable changes that demonstrate value
-- Build accountability and support systems for sustained improvement
+- Address the Knowing-Doing Gap: training knowledge is often lost without implementation. 
+- Design a Micro-Pilot to address a single friction point in a team. Zero budget, no permission required.
+- Learn to ensure measurement and scaling. 
+
 
 ## Training Format
 
@@ -52,8 +52,6 @@ The workshop consists of six interactive modules combining:
 This training is designed for:
 
 - Research team members at all career stages
-- Principal investigators leading collaborative projects
-- Project managers and coordinators
 - Anyone involved in multi-institutional or interdisciplinary research
 
 ## Expected Outcomes
