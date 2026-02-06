@@ -11,8 +11,8 @@ The goal is for participants to leave not just with a plan, but with a designed 
 
 | Concept | The Trap | The Strategy |
 |:---|:---|:---|
-| The Know-Do Gap | Assuming that learning information automatically leads to behavior change. | Design for the Hot State: Create checklists and defaults that work when you are stressed and busy. |
-| Resistance | Viewing skepticism as "being difficult" or "anti-collaboration." | The Pilot Method: Lower the stakes. Don't ask for a permanent change; ask for a temporary experiment. |
+| **The Know-Do Gap** | Assuming that learning information automatically leads to behavior change. | Design for unfavorable conditions, the "Hot State": Create checklists and defaults that work when you are stressed and busy. |
+| **Resistance** | Viewing skepticism as "being difficult" or "anti-collaboration." | **The Pilot Method:** Lower the stakes. Don't ask for a permanent change; ask for a temporary experiment. |
 
 **The facilitator can share the following:** 
 We have spent 5 modules learning what to do. But research shows there is a 'Valley of Death' between learning a concept and applying it. This is the Know-Do Gap.

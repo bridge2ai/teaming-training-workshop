@@ -7,4 +7,4 @@
 - Establishing a community of learners
 
 ## Activity 7: The Open Lab (10 mins)
-Open the floor to receive feedback, and to ask and answer questions.
+Open the floor to receive feedback, and hold a Q&A.
