@@ -1,5 +1,7 @@
 # Module 2: Communication Architecture (45 minutes)
 
+### Facilitator: Jamie Toghranegar (Precision Public Health - Voice)
+
 ## Content Block: Evidence-Based Communication Strategies (20 minutes)
 
 ### Opening Bridge (2 minutes)

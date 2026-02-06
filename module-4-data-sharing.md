@@ -1,5 +1,7 @@
 # Module 4: Data Sharing and Resource Management (40 minutes)
 
+### Facilitator: Yulia Levites Strekalova, Clinical Care (CHoRUS)
+
 ## Content Block: Collaborative Data Practices (15 minutes)
 
 ## FAIR Framework removed; Alternatives: ELSI, CARE, HIPPA, GDPR

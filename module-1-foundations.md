@@ -1,5 +1,7 @@
 # Module 1: Foundations of Team Science (30 minutes)
 
+### Facilitators: Christine Velez, Grace González, The Evaluation Center, and Bridge Center
+
 ## Content Block: What Makes Teams Work (15 minutes)
 
 ### Opening Hook (3 minutes)

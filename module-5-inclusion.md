@@ -1,5 +1,7 @@
 # Module 5: Effective Interdisciplinary Teams (40 minutes)
 
+### Facilitator: Colleen Cuddy, Salutogenesis (AI-READI)
+
 ## Content Block: Effective Interdisciplinary Teams (15 minutes)
 
 ### Opening with Evidence (3 minutes)
