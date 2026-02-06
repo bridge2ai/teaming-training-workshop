@@ -2,22 +2,19 @@
 
 ### Facilitator: Colleen Cuddy, Salutogenesis (AI-READI)
 
-## Content Block: Effective Interdisciplinary Teams (15 minutes)
+**Module objective:** To provide participants with frameworks for understanding interdisciplinary teams and encourage them to develop strategies to improve their own team's effectiveness.
 
-### Opening with Evidence (3 minutes)
-**Research Foundation:** "Three key findings from team performance research:"
+## Content Block: The Foundation for Effective Interdisciplinary Teams (7 minutes)
 
-1. **Multidisciplinary teams outperform homogeneous teams** on complex problems (Page 2007)
-2. **But multidisciplinary alone isn't enough** - inclusion practices determine whether enagaging a broder scope of disciplines helps or hurts (Nishii 2013)
-3. **Small changes in process can have big impacts** on who participates and how (Woolley 2010)
+## Understanding Different Types of Team Composition
 
-**Key Insight:** "Multidisciplinarity is about composition. Ensuring we engage everyone is about behavior."
+- **Monodisciplinary:** Working within a single field.
+- **Interdisciplinary:** Multiple disciplines work together, integrating their approaches to create new, synthesized knowledge.
+- **Multidisciplinary:** Multiple disciplines work in parallel from their own perspectives.
+- **Transdisciplinary:** Transcends disciplinary boundaries to create a new, shared conceptual framework.
 
-### What is Interdisciplinary/Understanding Different Types of Multidisciplinarity/What makes an interdisciplinary team effective (4 minutes)
-Continuum of monodisciplinary to transdisciplinary– FEEDBACK where your team is on the continuum.  Where would you like to be? 
 
-What makes a good multidisciplinary team– Edmondson Diversity, Pysch Safety, Inclusive Leadership, Deliberate Processes and Practices.
-Hackman principles.
+### Levels of Heterogeneity
 
 **Surface-Level Heterogeneity:**
 
@@ -34,93 +31,27 @@ Hackman principles.
 - Risk tolerance (conservative vs. experimental)
 - Skillsets (technical vs interpersonal)
 
-**Why This Matters:** 
+**Individual Reflection:** How deep is your heterogeneity? Does your team have a complex mix?
 
-### The Contact Theory Application (3 minutes)
-**Allport's Contact Theory:** Under the right conditions, contact between different groups reduces bias and improves collaboration.
+### The Structural Foundation (J. Richard Hackman's 5 Conditions)
 
-**The Right Conditions for Research Teams:**
+- **Real Team:** Clearly bounded, stable membership.
+- **Compelling Direction:** A clear, challenging, and consequential purpose.
+- **Enabling Structure:** The right mix of people and clear norms of conduct.
+- **Supportive Context:** Access to resources, information, and rewards for teamwork.
+- **Expert Coaching:** Help with the process and removing roadblocks.
 
-1. **Equal status** within the collaboration context, despite formal authority and status differences
-2. **Common goals** that require interdependence
-3. **Intergroup contact** in cooperative (not competitive) settings
-4. **Authority support** for collaborative norms
+### Team Dynamics (Amy Edmondson's Principles)
 
-Social, Cognitive, Knowledge and Contextual integration– being intentional, knowing each other, being together 
+- **Psychological Safety:** A shared belief that the team is safe for interpersonal risk-taking. People feel comfortable speaking up with ideas, questions, or mistakes.
+- **Inclusive Leadership:** Leaders who actively invite and appreciate contributions from everyone.
+- **Deliberate Processes & Practices:** Intentionally designing how the team communicates, makes decisions, and resolves conflict.
 
-**Practical Application:** "This means actively creating opportunities for different team members to work together as equals on shared objectives."
+## Activity 5: Team Assessment & Discussion (13 minutes)
 
-### Participation Strategies That Work (5 minutes)
-**Strategy 1: Structured Brainstorming**
-
-- **Problem:** Extroverted team members dominate idea generation
-- **Solution:** Silent brainstorming → individual sharing → group building
-
-**Strategy 2: Devil's Advocate Protocols**
-
-- **Problem:** Pressure for false consensus
-- **Solution:** Assign someone to argue alternative perspectives
-
-**Strategy 3: Multiple Communication Channels**
-
-- **Problem:** Some people don't speak up in meetings
-- **Solution:** Combine verbal discussion, written input, and one-on-one check-ins
-
-**Strategy 4: Bias Interruption**
-
-- **Problem:** Unconscious biases affect evaluation of ideas and contributions
-- **Solution:** Structured evaluation criteria, diverse review panels
-
-**Strategy 5: Cultural Bridge-Building**
-
-- **Problem:** Different professional cultures have different norms
-- **Solution:** Explicit discussion of differences, negotiated team norms
-
-## Activity 5: Participation Audit and Action Planning (15 minutes)
-
-### Individual Assessment (5 minutes)
-**Instructions:** "Think about a current or recent research collaboration. Rate how well the team does on each inclusion indicator using a 1-5 scale."
-
-**Inclusion Indicators:**
-
-1. **Broad representation** in leadership and decision-making roles
-2. **Impartial participation** in meetings and discussions
-3. **Multiple communication styles** are accommodated and valued
-4. **Different perspectives** are actively sought on important decisions
-5. **Cultural differences** are acknowledged and leveraged as strengths
-6. **Bias mitigation** strategies are used in evaluation and selection processes
-7. **Conflict resolution** addresses both task and relationship issues
-8. **Recognition and credit** are distributed fairly across contributions
-
-**Facilitator Notes:**
-
-- Walk around but maintain privacy
-- Notice if people seem stuck - offer to clarify any indicators
-- This should be reflective, not judgmental
-
-### Pair Planning (10 minutes)
-**Partner Assignment:** "Find someone you don't know well or haven't worked with closely."
-
-**Conversation Structure:**
-**Round 1 (3 minutes each person):** Share assessment results
-
-- Which areas scored highest? What makes those work well?
-- Which areas scored lowest? What barriers do you see?
-- Don't problem-solve yet - just understand each other's situations
-
-**Round 2 (4 minutes total):** Collaborative action planning
-
-- Choose 2-3 priority areas for improvement
-- Brainstorm specific, actionable strategies
-- Consider: What would you try first? What support would you need?
-
-**Facilitation Approach:**
-- Circulate to listen for innovative ideas
-- Help pairs stay focused on actionable steps
-- Note themes for whole-group debrief
-
-**Common Challenges and Responses:**
-
-- **"Our team is already pretty multidisciplinary."** → "That's great! What could you share with other teams?"
-- **"These problems are too big for me to solve."** → "What's one small experiment you could try?"
-- **"I'm not in a leadership position."** → "What can you influence from your current role?"
+- Take a couple of minutes to reflect on your team and rank it based on Hackman and Edmonson’s Frameworks.
+- Share your ranking with your neighbor, take turns, and discuss the following: 
+    - Why did you choose these rankings? 
+    - What are some things the team is doing well?
+    - Where is there an area for growth?
+    - What are some practices and processes that you might introduce?
