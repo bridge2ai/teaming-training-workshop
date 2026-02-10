@@ -58,7 +58,7 @@
 
 - **Veto Power:** Does the Community Clinic have the right to veto a public data release if they feel it risks "re-identification"?
  
-    - [ ] Yes (Full Veto) - [ ] Yes (Conditional Veto) - [ ] No (Pre-agreed de-identification is sufficient)
+    - Yes (Full Veto) | Yes (Conditional Veto) | No (Pre-agreed de-identification is sufficient)
  
 - **Access Tiers:** Define who can see the raw, sensitive SDOH notes vs. the de-identified genomic markers.
 
