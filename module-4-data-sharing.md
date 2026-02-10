@@ -2,7 +2,11 @@
 
 ### Facilitator: Yulia Levites Strekalova, Clinical Care (CHoRUS)
 
-## Activity 4: Team Data Sharing Agreement Negotiation (30 minutes)
+**Materials:**
+- [The FAIR Guiding Principles for scientific data management and stewardship (Paper)](https://drive.google.com/file/d/1AltSFugfMe7VLzObXUaf8TbcEfgXoVLP/view?usp=drive_link)
+- [Messy Data Silos Compromise Patient Privacy (Audio)](https://drive.google.com/file/d/19mfupmeRzs7NbsV7mo_Xx1DoA049E607/view?usp=drive_link)
+
+## Content Block: Team Data Sharing Agreement Negotiation (30 minutes)
 
 ### **Scenario: Project "DeepHealth"**
 
@@ -24,56 +28,17 @@
 
 3. **The Reusability Dilemma:** If the Tech Partner improves their AI model using this data, can the University use that improved model for their _next_ project without paying?
 
+### Activity 4: Team Challenge – The “Data Prenup” (20 minutes)
+
 ### **Team Challenge**
 
  As a group, you must negotiate the "Data Prenup." You have **20 minutes** to agree on:
 
 - **Ownership:** Who "owns" the merged dataset?
 - **Access:** Does the Clinic have the right to "veto" a data release?
-
-**FAIRness:** How will you make the data **Interoperable** without forcing everyone to buy the Tech Partner's software?
-
-### Team Data Sharing Agreement: Project "DeepHealth"
-
-1. **The Governance of "Who" (Ownership & Custodianship)**
-
-- **The Primary Custodian:** Which partner is legally responsible for the storage and security of the _merged_ dataset?
-- **The Intellectual Property (IP) Split:** If the Tech Partner’s AI improves using the University’s genomic data and the Clinic’s patient history, who owns the "improved model"? (e.g., Joint ownership, Tech Partner owns but University has free license, etc.)
-
-2. **The FAIR+ Execution (The Technicals)**
-
-- **Interoperability Standard:** To avoid the "PDF vs. Genomic" bottleneck, what will be the common "neutral" file format for shared analysis?
-- **The Metadata Tax:** Who is responsible for the labor-intensive task of tagging and cleaning the data so it is **Findable**? How is this labor compensated/credited?
-
-3. **The "Red Lines" (Security & Privacy)**
-
-- **Veto Power:** Does the Community Clinic have the right to veto a public data release if they feel it risks "re-identification"?
- 
-    - Yes (Full Veto) | Yes (Conditional Veto) | No (Pre-agreed de-identification is sufficient)
- 
-- **Access Tiers:** Define who can see the raw, sensitive SDOH notes vs. the de-identified genomic markers.
-
-4. **The Publication & Sharing Timeline**
-
-- **The "Embargo" Period:** How many months does the University have to publish their primary findings before the data _must_ be made **Accessible** to the public per grant requirements?
- 
-- **The "Commercial Head-start":** How much time does the Tech Partner get to "vet" publications for trade secrets?
- 
-5. **Exit Strategy**
-
-- If a partner leaves the project early:
-    - Do they take "their" data with them?
-    - Do the remaining partners lose the right to use the data already contributed?
-
-### Debrief (8 minutes)
-
-- Has your team identified the conflicts you didn’t realize existed?
-- Who owns the data if the Tech Partner goes bankrupt?
-
+- **FAIRness:** How will you make the data **Interoperable** without forcing everyone to buy the Tech Partner's software?
 
 ***
-
-
 
 This cheat sheet is designed to bridge the gap between high-level data theory and the "on-the-ground" reality of a research team. It breaks down the **FAIR+** acronym through the lens of **Team Science**.***
 
@@ -135,4 +100,8 @@ _FAIR is great; safe is better._
 
 **Psychological Safety**—when everyone knows the rules, they are more likely to share their best work.
 
+### Debrief (8 minutes)
+
+Has your team identified the conflicts you didn’t realize existed?
+Who owns the data if the Tech Partner goes bankrupt?
 
