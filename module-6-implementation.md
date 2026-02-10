@@ -7,11 +7,11 @@ The goal is for participants to leave not just with a plan, but with a designed 
 
 ### The Hook(The Implementation Challenge) (5 minutes)
 - **Facilitator:** "We know that 90% of training is lost without implementation support.Your labs are busy, stressed, and resistant to change. We aren't going to overhaul your lab culture overnight. We are going to run a scientific experiment on your team's process."
-- **Concept:** Briefly introduce the Know-Do Gap and Resistance as natural forces to be navigated, not fought.
+- **Concept:** Briefly introduce the Knowing-Doing Gap and Resistance as natural forces to be navigated, not fought. Recognize that understanding the source of resistance often presents a gift, resulting in a better approach.
 
 | Concept | The Trap | The Strategy |
 |:---|:---|:---|
-| **The Know-Do Gap** | Assuming that learning information automatically leads to behavior change. | Design for unfavorable conditions, the "Hot State": Create checklists and defaults that work when you are stressed and busy. |
+| **The Knowing-Doing Gap** | Assuming that learning information automatically leads to behavior change. | Design for unfavorable conditions, the "Hot State": Create checklists and defaults that work when you are stressed and busy. |
 | **Resistance** | Viewing skepticism as "being difficult" or "anti-collaboration." | **The Pilot Method:** Lower the stakes. Don't ask for a permanent change; ask for a temporary experiment. |
 
 **The facilitator can share the following:** 
