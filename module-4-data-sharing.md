@@ -33,7 +33,7 @@
 
 3. **The Reusability Dilemma:** If the Tech Partner improves their AI model using this data, can the University use that improved model for their _next_ project without paying?
 
-### **Team Challenge**
+### Activity 4: **Team Challenge**
 
  As a group, you must negotiate the "Data Prenup." You have **20 minutes** to agree on:
 
