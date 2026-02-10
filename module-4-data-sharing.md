@@ -2,15 +2,6 @@
 
 ### Facilitator: Yulia Levites Strekalova, Clinical Care (CHoRUS)
 
-## Content Block: Collaborative Data Practices (15 minutes)
-
-## FAIR Framework removed; Alternatives: ELSI, CARE, HIPPA, GDPR
-
-### Opening Reality Check (2 minutes)
-**Ask:** "How many of you have been part of a collaboration where data sharing was seamless and easy?"
-
-**Say:** "Data sharing is often the biggest practical barrier to effective collaboration. Let's look at frameworks that make it work."
-
 ## Activity 4: Team Data Sharing Agreement Negotiation (30 minutes)
 
 ### **Scenario: Project "DeepHealth"**
