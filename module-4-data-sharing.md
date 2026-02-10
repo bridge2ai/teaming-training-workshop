@@ -33,7 +33,7 @@
 
 3. **The Reusability Dilemma:** If the Tech Partner improves their AI model using this data, can the University use that improved model for their _next_ project without paying?
 
-#### **Team Challenge**
+### **Team Challenge**
 
  As a group, you must negotiate the "Data Prenup." You have **20 minutes** to agree on:
 
@@ -58,7 +58,7 @@
 
 - **Veto Power:** Does the Community Clinic have the right to veto a public data release if they feel it risks "re-identification"?
  
-    - [ ] Yes (Full Veto) [ ] Yes (Conditional Veto) [ ] No (Pre-agreed de-identification is sufficient)
+    - [ ] Yes (Full Veto) - [ ] Yes (Conditional Veto) - [ ] No (Pre-agreed de-identification is sufficient)
  
 - **Access Tiers:** Define who can see the raw, sensitive SDOH notes vs. the de-identified genomic markers.
 
@@ -80,7 +80,7 @@
 - Who owns the data if the Tech Partner goes bankrupt?
 
 
-
+***
 
 
 
