@@ -3,9 +3,12 @@
 ### Facilitator: Jamie Toghranegar (Precision Public Health - Voice)
 
 ## Content Block: Designing and Implementing Effective Communication Plans for Impactful Team Science
+
 ### Part 1: The Basics of Effective Communication (5 minutes)
 
 **A. The Communication Chain**
+
+Communication is not a single thing, and is not a singular act. Communication is more than speaking. It is a chain and the result of a series of choices between a sender and a receiver.  These decisions determine whether our message is received effectively. 
 
 **B. Communication Channels**
 
@@ -16,6 +19,8 @@
 ### Part 2: Scenario Practice (5 minutes)
 
 **A. Communication Examples:** Identify effective and ineffective communication through examples
+
+The Facilitator shares three scenarios and asks the group to share their opinions on whether each scenario depicts an effective way of communicating, and, if not, what the possible cause of misalignment is: presentation or delivery?
 
 ### Part 3: Communication Architectures at the Team Level (5 minutes)
 
@@ -91,11 +96,11 @@
 **A. What Is a Communication Charter?**
 
 - A shared, explicit agreement on:
-  - Communication channels
-  - Response expectations
-  - Meetings
-  - Decision-making
-  - Feedback norms
+  - Communication values
+  - Communication channels and response expectations
+  - Meeting Rhythms (frequency, duration, purpose of different meeting types)
+  - Decision-making Process (how choices get made, who has input vs. final say)
+  - Feedback norms and conflict resolution
 - Designed to make collaboration inclusive and transparent
 
 **B. Applied Exercise (15-20 minutes)**
