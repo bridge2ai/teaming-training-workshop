@@ -14,9 +14,9 @@ This training workshop aims to equip participants with the knowledge, skills, an
 - Apply the IMPACT framework (Interdependence, Motivation, Processes, Abilities, Culture, Tools) to team dynamics
 
 ### 2. Build Communication Architecture
-- Implement the 4C Framework (Clarity, Cadence, Channels, Culture) for effective team communication
-- Create communication charters that work for real research teams
-- Establish psychological safety and inclusion norms
+- Learn the basics of effective communication
+- Learn how to design and implement successful communication architectures for team science
+- Apply what you’ve learned to create your own Communication Charter
 
 ### 3. Design Governance Structures
 - Understand different leadership models (distributed, rotating, collaborative hierarchy, network governance)
