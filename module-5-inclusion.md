@@ -52,7 +52,7 @@ Thompson (1967) provides a framework for the coordination of work based on level
 |:---|:---|:---|:---|
 | Pooled | Team members work independently and contribute their separate pieces to a common goal. The output is the sum of their efforts. | Standardization | Relies on establishing common rules, procedures, and standards that all members follow. This ensures outputs are consistent and can be easily aggregated with minimal interaction |
 | Sequential | The work flows in an assembly-line fashion. One person's or group's output becomes the input for the next person or group. | Planning & Scheduling | Focuses on creating schedules and timelines to manage the flow of work between stages. The goal is to ensure smooth and timely hand-offs from one member to the next. |
-| Reciprocal | Work is iterative and requires back-and-forth interaction. Each members output is an input for others, and vice-versa, in a dynamic process. | Requires constant communication. feedback, and shared decision-making. Team members continuously adapt their actions in response to others. This is the most intensive and demanding form of coordination. |
+| Reciprocal | Work is iterative and requires back-and-forth interaction. Each members output is an input for others, and vice-versa, in a dynamic process. | Mutual Adjustment | Requires constant communication. feedback, and shared decision-making. Team members continuously adapt their actions in response to others. This is the most intensive and demanding form of coordination. |
 
 The further you move along the continuum, the more significant coordination becomes.
 
