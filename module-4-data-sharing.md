@@ -11,7 +11,7 @@
 
 **Say:** "Data sharing is often the biggest practical barrier to effective collaboration. Let's look at frameworks that make it work."
 
-## Team Data Sharing Agreement Negotiation (30 minutes)
+## Activity 4: Team Data Sharing Agreement Negotiation (30 minutes)
 
 ### **Scenario: Project "DeepHealth"**
 
@@ -33,7 +33,7 @@
 
 3. **The Reusability Dilemma:** If the Tech Partner improves their AI model using this data, can the University use that improved model for their _next_ project without paying?
 
-## Activity 4: **Team Challenge**
+### **Team Challenge**
 
  As a group, you must negotiate the "Data Prenup." You have **20 minutes** to agree on:
 
