@@ -1,6 +1,6 @@
 # Module 4: Data Sharing and Resource Management (40 minutes)
 
-### Facilitator: Yulia Levites Strekalova, Clinical Care (CHoRUS)
+**Facilitator:** Yulia Levites Strekalova, Clinical Care (CHoRUS)
 
 **Materials:**
 - [The FAIR Guiding Principles for scientific data management and stewardship (Paper)](https://drive.google.com/file/d/1AltSFugfMe7VLzObXUaf8TbcEfgXoVLP/view?usp=drive_link)
@@ -28,7 +28,7 @@
 
 3. **The Reusability Dilemma:** If the Tech Partner improves their AI model using this data, can the University use that improved model for their _next_ project without paying?
 
-### Activity 4: Team Challenge – The “Data Prenup” (20 minutes)
+## Activity 4: Team Challenge – The “Data Prenup” (20 minutes)
 
 ### **Team Challenge**
 
