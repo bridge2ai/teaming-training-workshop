@@ -14,9 +14,9 @@ The goal is for participants to leave not just with a plan, but with a designed 
 | **The Knowing-Doing Gap** | Assuming that learning information automatically leads to behavior change. | Design for unfavorable conditions, the "Hot State": Create checklists and defaults that work when you are stressed and busy. |
 | **Resistance** | Viewing skepticism as "being difficult" or "anti-collaboration." | **The Pilot Method:** Lower the stakes. Don't ask for a permanent change; ask for a temporary experiment. |
 
-**The facilitator can share the following:** 
-We have spent 5 modules learning what to do. But research shows there is a 'Valley of Death' between learning a concept and applying it. This is the Know-Do Gap.
-In this workshop, you are currently in a 'cold' state—you are calm, rational, and reflective. On Monday morning, you will return to a 'hot' state—stressed, rushing for grant deadlines, and managing complex personalities. The Know-Do gap happens because we try to apply 'cold' logic to 'hot' situations without a bridge. Today is about building that bridge.
+**Food for thought:** 
+We have spent 5 modules learning what to do. But research shows there is a 'Valley of Death' between learning a concept and applying it. This is the Knowing-Doing Gap (attributed to Jeff Pfeffer and Bob Sutton, 2000).
+In this workshop, you are currently in a 'cold' state—you are calm, rational, and reflective. Next Monday morning, you will return to a 'hot' state—stressed, rushing for grant deadlines, and managing complex personalities. From an overly simplistic point of view, the Knowing-Doing gap happens because we try to apply 'cold' logic to 'hot' situations without a bridge. Today, our workshop is about building that bridge.
 
 
 ## Activity 6: The Monday Morning Protocol (35 minutes)
