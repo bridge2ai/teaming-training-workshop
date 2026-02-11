@@ -100,7 +100,7 @@ _FAIR is great; safe is better._
 
 **Psychological Safety**—when everyone knows the rules, they are more likely to share their best work.
 
-### Debrief (8 minutes)
+## Debrief (8 minutes)
 
 Has your team identified the conflicts you didn’t realize existed?
 Who owns the data if the Tech Partner goes bankrupt?

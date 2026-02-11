@@ -1,6 +1,6 @@
 # Module 6: Implementation and Sustainability (40 minutes)
 
-### Facilitator: Mónica Muñoz Torres (Bridge Center)
+**Facilitator:** Mónica Muñoz Torres (Bridge Center)
 
 ## Content Block: The Monday Morning Protocol (5 minutes)
 The goal is for participants to leave not just with a plan, but with a designed experiment to introduce one team science practice to their lab.

@@ -1,6 +1,6 @@
 # Module 2: Communication Architecture (45 minutes)
 
-### Facilitator: Jamie Toghranegar (Precision Public Health - Voice)
+**Facilitator:** Jamie Toghranegar (Precision Public Health - Voice)
 
 ## Content Block: Designing and Implementing Effective Communication Plans for Impactful Team Science
 

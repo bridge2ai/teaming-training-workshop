@@ -1,6 +1,6 @@
 # Module 0: Introduction (15 minutes)
 
-### **Facilitator:** Mónica Muñoz Torres, Bridge Center
+**Facilitator:** Mónica Muñoz Torres, Bridge Center
 
 ## Content Block (15 minutes)
 

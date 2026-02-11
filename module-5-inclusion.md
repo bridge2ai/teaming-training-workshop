@@ -1,6 +1,8 @@
 # Module 5: Effective Interdisciplinary Teams (40 minutes)
 
-### Facilitator: Colleen Cuddy, Salutogenesis (AI-READI)
+**Facilitator:** Colleen Cuddy, Salutogenesis (AI-READI)
+
+***
 
 **Module objective:** To provide participants with frameworks for understanding interdisciplinary teams and encourage them to develop strategies to improve their own team's effectiveness.
 
@@ -18,7 +20,7 @@ Complex scientific problems demand diverse perspectives
 
 ### Understanding Different Types of Team Composition
 
-### Levels of Heterogeneity
+#### Levels of Heterogeneity
 
 **Surface-Level Heterogeneity:**
 
