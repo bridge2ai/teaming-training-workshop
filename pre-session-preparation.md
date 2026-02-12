@@ -4,16 +4,8 @@
 **In-Person:**
 
 - Tables for 4-6 people (collaborative seating)
-- Wall space for posting flipchart sheets
-- Supplies: markers, sticky notes, timer, flipchart paper
-- Name tags with first names only
-
-**Virtual:**
-
-- Pre-configured breakout rooms (4-5 people each)
-- Shared collaboration tool (Miro, Jamboard, or Padlet)
-- Polls/surveys ready in platform
-- Chat moderation plan
+- Supplies: pens, handouts
+- Name tags 
 
 ## Facilitator Mindset
 

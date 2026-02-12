@@ -6,7 +6,6 @@ book:
   title: "Bridge2AI Team Science Training Workshop"
   chapters:
     - index.md
-    - pre-session-preparation.md
     - module-0-introductions.md
     - module-1-foundations.md
     - module-2-communication.md
@@ -16,6 +15,7 @@ book:
     - module-6-implementation.md
     - wrap-up.md
   appendices:
+    - pre-session-preparation.md
     - post-session-follow-up.md
     - troubleshooting.md
     - materials-checklist.md
