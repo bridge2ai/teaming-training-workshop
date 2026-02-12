@@ -28,11 +28,11 @@
 
 3. **The Reusability Dilemma:** If the Tech Partner improves their AI model using this data, can the University use that improved model for their _next_ project without paying?
 
-## Activity 4: Team Challenge – The “Data Prenup” (20 minutes)
+## Activity 4: Team Challenge – The “Team Data Agreement” (20 minutes)
 
 ### **Team Challenge**
 
- As a group, you must negotiate the "Data Prenup." You have **20 minutes** to agree on:
+ As a group, you must negotiate the "Team Data Agreement" You have **20 minutes** to agree on:
 
 - **Ownership:** Who "owns" the merged dataset?
 - **Access:** Does the Clinic have the right to "veto" a data release?
