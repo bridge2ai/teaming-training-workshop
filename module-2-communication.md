@@ -16,101 +16,48 @@ Communication is not a single thing, and is not a singular act. Communication is
 - Matching message type to delivery method
 - Channels as the foundation of team communication architecture
 
-### Part 2: Scenario Practice (5 minutes)
+**C. Scenario Practice**
+- Communication Examples: Identify effective and ineffective communication through examples
+- The Facilitator shares three scenarios and asks the group to share their opinions on whether each scenario depicts an effective way of communicating, and, if not, what the possible cause of misalignment is: presentation or delivery?
 
-**A. Communication Examples:** Identify effective and ineffective communication through examples
 
-The Facilitator shares three scenarios and asks the group to share their opinions on whether each scenario depicts an effective way of communicating, and, if not, what the possible cause of misalignment is: presentation or delivery?
+### Part 2: Communication Architectures at the Team Level (10 minutes)
 
-### Part 3: Communication Architectures at the Team Level (5 minutes)
-
-**A. Establishing the Foundation**
+**A. Defining Communication Architectures**
 
 - Define roles, responsibilities, and decision-making processes
+
 - Build trust and psychological safety
 
-**B. Developing Processes and Channels**
 
-- Select communication tools and platforms
-- Set communication norms
-   - When to use email, Slack, meetings, etc.
-- Map information flow
-   - Who needs what information, when, and how
-   - Aim for shared team awareness
-
-**C. Maintaining and Evaluating Communication**
-
-- Foster team cohesion and identity
-- Regularly solicit feedback
-- Proactively manage and resolve conflict
-
-**D. Bridge2AI-Voice Example**
+**B. Bridge2AI-Voice Example**
 
 - Leadership roles and institutional representation
+
 - Communication channels used:
+
   - Email, Slack, Monday.com, Box, Google Docs, Teams, phone/text
+
 - Meeting structures across initiatives and task forces
 
-**E. Design Considerations**
+
+**C. How to Design and Implement Communication Architectures**
 
 - Avoid over-communication and channel overload
+
 - Prioritize commonly used tools
+
 - Simplify whenever possible
-
-### Part 4: Optimizing Emails and Meetings (5 minutes)
-
-**A. Writing Effective Emails**
-
-- Confirm email is the best medium
-- Identify who truly needs to be included
-- Clearly define the “ask”
-- Keep messages concise and direct
-- Use SMART goals
-
-**B. Evaluating Email Effectiveness**
-
-- Identify missing clarity, audience mismatch, or unclear action items
-- Practice revising ineffective emails
-
-**C. Running Effective Meetings**
-
-- Confirm meeting necessity
-- Invite the right participants
-- Define purpose
-- Use a clear agenda with time allocations
-- Maintain running notes
-- Assign clear action items with owners
-- Establish regular cadence and follow-up communication
-
-**D. Common Meeting Pitfalls**
-
-- Going off agenda
-- Conversation monopolization
-- Missing or unclear action items
-- Poor assignment of responsibility
-- Loss of engagement
-- Over- or under-inviting participants
 
 ## Activity 2: Developing a Communication Charter (25 minutes)
 
-**A. What Is a Communication Charter?**
+**A. Applied Exercise (15 minutes)**
+Draft a charter for:
+A current team
+A hypothetical future team
+Small-group brainstorming
+Group discussion and sharing
 
-- A shared, explicit agreement on:
-  - Communication values
-  - Communication channels and response expectations
-  - Meeting Rhythms (frequency, duration, purpose of different meeting types)
-  - Decision-making Process (how choices get made, who has input vs. final say)
-  - Feedback norms and conflict resolution
-- Designed to make collaboration inclusive and transparent
+**B. Feedback and Presentation (5 minutes)**
 
-**B. Applied Exercise (15-20 minutes)**
-
-- Draft a charter for:
-  - A current team
-  - A hypothetical future team
-- Small-group brainstorming
-- Group discussion and sharing
-
-**C. Peer Feedback (5-10 minutes)**
-
-
+**C. Revision Time (5 minutes)**
