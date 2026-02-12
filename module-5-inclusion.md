@@ -60,7 +60,7 @@ The further you move along the continuum, the more significant coordination beco
 
 ![Overlay of Thompson on Continuum](images/module-5-overlay-of-thompson-on-continuum.png)
 
-### Individual Reflection: (5 Minutes) 
+### Activity 5.a: Individual Reflection: (5 Minutes) 
 
 Take a moment to think. How deep is your heterogeneity? Does your team have the diversity required to match the complexity of the work?
 Where does your primary research team currently fall on this continuum? Where would you like it to be? Where does it need to be? 
@@ -89,7 +89,7 @@ _Inclusive Leadership:_ Leaders who actively invite and appreciate contributions
 
 _Deliberate Processes & Practices:_ Intentionally designing how the team communicates, makes decisions, and resolves conflict.
 
-## Activity 5: Team Assessment & Discussion (13 minutes)
+## Activity 5.b: Team Assessment & Discussion (13 minutes)
 
 - Take a couple of minutes to reflect on your team and rank it based on Hackman and Edmonson’s Frameworks.
 - Share your ranking with your neighbor, take turns, and discuss the following: 
