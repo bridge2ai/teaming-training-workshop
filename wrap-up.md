@@ -4,7 +4,6 @@
 - Thank yous
 - Handouts
 - Survey 
-- Establishing a community of learners
 
 ## Activity 7: The Open Lab (10 mins)
 Open the floor to receive feedback, and hold a Q&A.
