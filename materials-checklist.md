@@ -1,8 +1,7 @@
 # Materials Checklist
 
 ## Required Supplies
-- [ ] Flipchart paper and markers
-- [ ] Sticky notes (multiple colors)
+- [ ] Pens
 - [ ] Timer (visible to all participants)
 - [ ] Name tags
 - [ ] Handout packets for each participant
@@ -11,8 +10,6 @@
 ## Digital Resources
 - [ ] Slide deck loaded and tested
 - [ ] Activity templates in shared folder
-- [ ] Collaboration platform set up and tested
-- [ ] Contact information collection method
 - [ ] Evaluation survey ready to deploy
 
 ## Backup Plans
