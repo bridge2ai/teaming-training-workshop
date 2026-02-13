@@ -1,116 +1,99 @@
-# Module 5: Building Multidisciplinary and Productive Teams (30 minutes)
+# Module 5: Effective Interdisciplinary Teams (40 minutes)
 
-## Content Block: Multidisciplinary, Integrity, and Team Performance (15 minutes)
+**Facilitator:** Colleen Cuddy, Salutogenesis (AI-READI)
 
-### Opening with Evidence (3 minutes)
-**Research Foundation:** "Three key findings from team performance research:"
+***
 
-1. **Multidisciplinary teams outperform homogeneous teams** on complex problems (Page 2007)
-2. **But multidisciplinary alone isn't enough** - inclusion practices determine whether enagaging a broder scope of disciplines helps or hurts (Nishii 2013)
-3. **Small changes in process can have big impacts** on who participates and how (Woolley 2010)
+**Module objective:** To provide participants with frameworks for understanding interdisciplinary teams and encourage them to develop strategies to improve their own team's effectiveness.
 
-**Key Insight:** "Multidisciplinarity is about composition. Ensuring we engage everyone is about behavior."
+## Content Block: The Foundation for Effective Interdisciplinary Teams (10 minutes)
 
-### Understanding Different Types of Diversity (4 minutes)
-**Surface-Level Multidisciplinarity:**
+### **Why this matters:**
+
+Complex scientific problems demand diverse perspectives
+
+1. Multidisciplinary teams outperform homogeneous teams on complex problems (Page, 2007)
+
+2. Multidisciplinarity alone isn't enough - inclusion practices determine whether engaging a broader scope of disciplines helps or hurts (Nishii, 2013)
+
+3. Small changes in process can have big impacts on who participates and how (Woolley, 2010)
+
+### Understanding Different Types of Team Composition
+
+#### Levels of Heterogeneity
+
+**Surface-Level Heterogeneity:**
 
 - Demographics: gender, race, age, nationality
 - Disciplinary backgrounds
 - Institutional affiliations
 - Career stages
 
-**Deep-Level Multidisciplinarity:**
+**Deep-Level Heterogeneity:**
 
 - Thinking styles (analytical vs. intuitive)
 - Work preferences (individual vs. collaborative)
 - Communication styles (direct vs. indirect)
 - Risk tolerance (conservative vs. experimental)
+- Skillsets (technical vs interpersonal)
 
-**Why This Matters:** "Surface-level multidisciplinarity is what we see first, but deep-level multidisciplinarity often drives the performance benefits."
+### Continuum of monodisciplinary to transdisciplinary
 
-### The Contact Theory Application (3 minutes)
-**Allport's Contact Theory:** Under the right conditions, contact between different groups reduces bias and improves collaboration.
+- **Monodisciplinary:** Working within a single field.
+- **Interdisciplinary:** Multiple disciplines work together, integrating their approaches to create new, synthesized knowledge.
+- **Multidisciplinary:** Multiple disciplines work in parallel from their own perspectives.
+- **Transdisciplinary:** Transcends disciplinary boundaries to create a new, shared conceptual framework.
 
-**The Right Conditions for Research Teams:**
+![Continuum of monodisciplinary to transdisciplinary](images/module-5-continuum-of-monodisciplinary-to-transdisciplinary.png)
 
-1. **Equal status** within the collaboration context
-2. **Common goals** that require interdependence
-3. **Intergroup contact** in cooperative (not competitive) settings
-4. **Authority support** for collaborative norms
+### Thompson’s Interdependence & Coordination
 
-**Practical Application:** "This means actively creating opportunities for different team members to work together as equals on shared objectives."
+Thompson (1967) provides a framework for the coordination of work based on levels of interdependence. 
 
-### Participation Strategies That Work (5 minutes)
-**Strategy 1: Structured Brainstorming**
+| Types of Interdependence |  | Key Coordination Method |  |
+|:---|:---|:---|:---|
+| Pooled | Team members work independently and contribute their separate pieces to a common goal. The output is the sum of their efforts. | Standardization | Relies on establishing common rules, procedures, and standards that all members follow. This ensures outputs are consistent and can be easily aggregated with minimal interaction |
+| Sequential | The work flows in an assembly-line fashion. One person's or group's output becomes the input for the next person or group. | Planning & Scheduling | Focuses on creating schedules and timelines to manage the flow of work between stages. The goal is to ensure smooth and timely hand-offs from one member to the next. |
+| Reciprocal | Work is iterative and requires back-and-forth interaction. Each members output is an input for others, and vice-versa, in a dynamic process. | Mutual Adjustment | Requires constant communication. feedback, and shared decision-making. Team members continuously adapt their actions in response to others. This is the most intensive and demanding form of coordination. |
 
-- **Problem:** Extroverted team members dominate idea generation
-- **Solution:** Silent brainstorming → individual sharing → group building
+The further you move along the continuum, the more significant coordination becomes.
 
-**Strategy 2: Devil's Advocate Protocols**
+![Overlay of Thompson on Continuum](images/module-5-overlay-of-thompson-on-continuum.png)
 
-- **Problem:** Pressure for false consensus
-- **Solution:** Assign someone to argue alternative perspectives
+### Activity 5.a: Individual Reflection: (5 Minutes) 
 
-**Strategy 3: Multiple Communication Channels**
+Take a moment to think. How deep is your heterogeneity? Does your team have the diversity required to match the complexity of the work?
+Where does your primary research team currently fall on this continuum? Where would you like it to be? Where does it need to be? 
 
-- **Problem:** Some people don't speak up in meetings
-- **Solution:** Combine verbal discussion, written input, and one-on-one check-ins
+## Content Block: What makes a good interdisciplinary team? Structure and Dynamics (10 minutes)
 
-**Strategy 4: Bias Interruption**
+Two key frameworks help us create the conditions for success: one for the team's structure and one for its dynamics.
 
-- **Problem:** Unconscious biases affect evaluation of ideas and contributions
-- **Solution:** Structured evaluation criteria, diverse review panels
+**The Structural Foundation (J. Richard Hackman's 5 Conditions)**
 
-**Strategy 5: Cultural Bridge-Building**
+_Real Team:_ Clearly bounded, stable membership.
 
-- **Problem:** Different professional cultures have different norms
-- **Solution:** Explicit discussion of differences, negotiated team norms
+_Compelling Direction_: A clear, challenging, and consequential purpose.
 
-## Activity 5: Participation Audit and Action Planning (15 minutes)
+_Enabling Structure:_ The right mix of people and clear norms of conduct.
 
-### Individual Assessment (5 minutes)
-**Instructions:** "Think about a current or recent research collaboration. Rate how well the team does on each inclusion indicator using a 1-5 scale."
+_Supportive Context:_ Access to resources, information, and rewards for teamwork.
 
-**Inclusion Indicators:**
+_Expert Coaching:_ Help with the process and removing roadblocks.
 
-1. **Broad representation** in leadership and decision-making roles
-2. **Impartial participation** in meetings and discussions
-3. **Multiple communication styles** are accommodated and valued
-4. **Different perspectives** are actively sought on important decisions
-5. **Cultural differences** are acknowledged and leveraged as strengths
-6. **Bias mitigation** strategies are used in evaluation and selection processes
-7. **Conflict resolution** addresses both task and relationship issues
-8. **Recognition and credit** are distributed fairly across contributions
+**Team Dynamics (Amy Edmondson's Principles)**
 
-**Facilitator Notes:**
+_Psychological Safety_: A shared belief that the team is safe for interpersonal risk-taking. People feel comfortable speaking up with ideas, questions, or mistakes.
 
-- Walk around but maintain privacy
-- Notice if people seem stuck - offer to clarify any indicators
-- This should be reflective, not judgmental
+_Inclusive Leadership:_ Leaders who actively invite and appreciate contributions from everyone.
 
-### Pair Planning (10 minutes)
-**Partner Assignment:** "Find someone you don't know well or haven't worked with closely."
+_Deliberate Processes & Practices:_ Intentionally designing how the team communicates, makes decisions, and resolves conflict.
 
-**Conversation Structure:**
-**Round 1 (3 minutes each person):** Share assessment results
+## Activity 5.b: Team Assessment & Discussion (13 minutes)
 
-- Which areas scored highest? What makes those work well?
-- Which areas scored lowest? What barriers do you see?
-- Don't problem-solve yet - just understand each other's situations
-
-**Round 2 (4 minutes total):** Collaborative action planning
-
-- Choose 2-3 priority areas for improvement
-- Brainstorm specific, actionable strategies
-- Consider: What would you try first? What support would you need?
-
-**Facilitation Approach:**
-- Circulate to listen for innovative ideas
-- Help pairs stay focused on actionable steps
-- Note themes for whole-group debrief
-
-**Common Challenges and Responses:**
-
-- **"Our team is already pretty multidisciplinary"** → "That's great! What could you share with other teams?"
-- **"These problems are too big for me to solve"** → "What's one small experiment you could try?"
-- **"I'm not in a leadership position"** → "What can you influence from your current role?"
+- Take a couple of minutes to reflect on your team and rank it based on Hackman and Edmonson’s Frameworks.
+- Share your ranking with your neighbor, take turns, and discuss the following: 
+    - Why did you choose these rankings? 
+    - What are some things the team is doing well?
+    - Where is there an area for growth?
+    - What are some practices and processes that you might introduce?

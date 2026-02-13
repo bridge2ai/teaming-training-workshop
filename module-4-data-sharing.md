@@ -1,135 +1,107 @@
-# Module 4: Data Sharing and Resource Management (35 minutes)
+# Module 4: Data Sharing and Resource Management (40 minutes)
 
-## Content Block: Collaborative Data Practices (15 minutes)
+**Facilitator:** Yulia Levites Strekalova, Clinical Care (CHoRUS)
 
-### Opening Reality Check (2 minutes)
-**Ask:** "How many of you have been part of a collaboration where data sharing was seamless and easy?" [Few hands usually go up]
+**Materials:**
+- [The FAIR Guiding Principles for scientific data management and stewardship (Paper)](https://drive.google.com/file/d/1AltSFugfMe7VLzObXUaf8TbcEfgXoVLP/view?usp=drive_link)
+- [Messy Data Silos Compromise Patient Privacy (Audio)](https://drive.google.com/file/d/19mfupmeRzs7NbsV7mo_Xx1DoA049E607/view?usp=drive_link)
 
-**Say:** "Data sharing is often the biggest practical barrier to effective collaboration. Let's look at frameworks that make it work."
+## Content Block: Team Data Sharing Agreement Negotiation (30 minutes)
 
-### The FAIR+ Framework (4 minutes)
-**Present Framework:** "The FAIR principles were designed for open science, but we need to extend them for collaborative team science."
+### **Scenario: Project "DeepHealth"**
 
-**FAIR Principles:**
+**The Objective:** A multi-site study to develop an AI-driven tool that predicts health risks by merging genomic markers with social determinants of health (SDOH).
 
-- **F**indable: Team members can locate relevant data and resources
-- **A**ccessible: Appropriate permissions and access protocols exist
-- **I**nteroperable: Data works across different systems and analyses
-- **R**eusable: Clear documentation enables future use
+#### **The Stakeholders**
 
-**The '+' Addition:**
+- **The University (Genomics Lab):** Focused on high-impact publications and "Open Science." They operate under a federal grant requiring data to be **Findable** and **Accessible** in public repositories within 12 months of collection.
 
-- **Secure:** Privacy, confidentiality, and compliance protections
+- **The Community Clinic (Patient Advocacy):** Provides access to 5,000 high-risk patients. Their priority is **Security** and community trust. They are wary of "data extraction" and fear that sharing sensitive histories could stigmatize their patients or lead to insurance discrimination.
 
-### Findable: Shared Repositories and Metadata (2 minutes)
-**Common Problem:** "The data exists somewhere, but no one can find it when they need it."
+- **The Tech Partner (AI Solutions Corp):** Provides a proprietary machine-learning platform. They want the data to train their models, but they want to keep the "processed" data and the resulting algorithms **Secure** and proprietary for commercial use.
 
-**Solutions:**
+#### **The "Friction Points" (To be resolved)**
 
-- **Central registry** of all project datasets with descriptions
-- **Consistent naming conventions** for files and versions
-- **Metadata templates** that everyone uses
-- **Search functionality** within shared repositories
+1. **The Interoperability Gap:** The Clinic’s data is in narrative PDF format (notes); the University’s is in structured genomic files. The Tech Partner wants both converted to their proprietary format, which the others cannot access without a paid license.
 
-**Quick Example:** "Instead of 'Analysis_final_v3_JMS.xlsx', use '2024-03-15_participant-survey_cleaned_smith.xlsx'"
+2. **The Timeline Conflict:** The University wants to upload raw genomic data to a public server _now_ to meet grant milestones. The Clinic wants a "Community Review Board" to approve every data release first.
 
-### Accessible: Permission Systems (3 minutes)
-**Key Principle:** "Default to open within the team, closed to the outside, with explicit exceptions."
+3. **The Reusability Dilemma:** If the Tech Partner improves their AI model using this data, can the University use that improved model for their _next_ project without paying?
 
-**Access Levels:**
+## Activity 4: Team Challenge – The “Team Data Agreement” (20 minutes)
 
-- **Full Access:** Core team members, can read/write/modify
-- **Analysis Access:** Can download and analyze, cannot modify originals  
-- **Metadata Access:** Can see what exists, request specific datasets
-- **No Access:** Sensitive data with special restrictions
+### **Team Challenge**
 
-**Implementation Tools:**
+ As a group, you must negotiate the "Team Data Agreement" You have **20 minutes** to agree on:
 
-- **Cloud platforms** with granular permissions (Google Drive, Box, institutional systems)
-- **Version control systems** (Git for code, specialized tools for data)
-- **Access logging** for sensitive data compliance
+- **Ownership:** Who "owns" the merged dataset?
+- **Access:** Does the Clinic have the right to "veto" a data release?
+- **FAIRness:** How will you make the data **Interoperable** without forcing everyone to buy the Tech Partner's software?
 
-### Interoperable: Compatible Formats (2 minutes)
-**Common Failure:** "Everyone saves data in their preferred format, nothing works together."
+***
 
-**Best Practices:**
+This cheat sheet is designed to bridge the gap between high-level data theory and the "on-the-ground" reality of a research team. It breaks down the **FAIR+** acronym through the lens of **Team Science**.***
 
-- **Agreed-upon file formats** for different data types
-- **Standard variable naming** across datasets
-- **Common coding schemes** for categorical variables
-- **Documentation templates** that everyone uses
+## **🔬 The FAIR+ Cheat Sheet for Research Teams**
 
-### Reusable: Documentation and Licensing (2 minutes)
-**The Documentation Imperative:** "If you can't understand the data 6 months from now, no one else will either."
+### _A Guide to Collaborative Data Management_
 
-**Essential Documentation:**
+#### **F — Findable**
 
-- **Data collection protocols** and any changes over time
-- **Variable definitions** and coding schemes
-- **Quality control procedures** and known limitations
-- **Analysis scripts** with comments explaining logic
+_If you can't find it, it doesn't exist._
 
-## Activity 4: Data Sharing Agreement Simulation (20 minutes)
+- **Metadata:** Data about the data. Does the file name Dataset\_V2\_Final\_ActualFinal.csv mean anything to a teammate six months from now?
 
-### Role Assignment and Scenario Setup (3 minutes)
-**Scenario:** Multi-site study examining social media use and mental health outcomes among adolescents. Site A (major university) has collected data from 500 participants. Site B (smaller college) wants to access this data for secondary analysis.
+- **Persistent Identifiers (PIDs):** Assigning a DOI or a unique ID so the data can be cited and located regardless of where it’s moved.
 
-**Roles (5 people per group):**
+- **Searchability:** Is the data indexed in a place where your team (and the public, if required) can search for it?
 
-1. **Site A Principal Investigator:** Collected the data, protective of participants
-2. **Site B Researcher:** Wants access for legitimate secondary research
-3. **Site A Compliance Officer:** Responsible for legal/ethical compliance
-4. **Site B IRB Representative:** Must ensure ethical standards
-5. **Data Manager:** Technical expert on security and systems
+#### **A — Accessible**
 
-**Key Constraints:**
+_Knowing it exists isn't the same as being able to open it._
 
-- Data includes sensitive mental health information
-- Participants consented to "research by the study team and approved collaborators"
-- Site A IRB approval required for data sharing
-- Site B has different data security infrastructure
+- **Authentication:** Who has the "key"? Define the specific protocols (e.g., VPN, login credentials) required to reach the data.
 
-### Negotiation Phase (15 minutes)
-**Instructions to Groups:**
-"You have 15 minutes to negotiate a data sharing agreement. You must address these issues:"
+- **Long-term Availability:** If the PI’s lab website goes down, where does the data live? (e.g., Institutional repositories like Zenodo or Dryad).
 
-**Required Agreement Elements:**
+- **Open vs. Restricted:** "Accessible" doesn't always mean "Free for everyone." It means the _process_ for requesting access is clear and automated.
 
-1. **What data can be shared?** (raw data, processed data, aggregate data only?)
-2. **Access controls:** How will Site B access and store the data?
-3. **Permitted analyses:** What research questions can Site B pursue?
-4. **Publication rights:** How are publications handled? Authorship?
-5. **Security requirements:** What technical safeguards are needed?
-6. **Compliance verification:** How is adherence to agreement monitored?
+#### **I — Interoperable**
 
-**Your Facilitation Strategy:**
+_Data should play well with others._
 
-- **Let tensions emerge naturally** - don't smooth over disagreements too quickly
-- **Intervene only if discussion becomes personal** or completely stuck
-- **Note common sticking points** for debrief discussion
-- **Watch for creative solutions** that balance competing interests
+- **Machine-Readable:** Can a computer program (like an AI tool) ingest the data without a human having to manually re-format 1,000 PDFs?
 
-**Common Sticking Points You'll Observe:**
+- **Shared Vocabulary:** Does everyone on the team agree on what "Age" means? (e.g., Is it "Age at birth," "Age at enrollment," or "Age in months"?)
 
-- **Site A wants extensive oversight, Site B wants autonomy**
-- **Publication timelines and approval processes**
-- **Technical security requirements vs. practical constraints**
-- **What happens if Site B violates the agreement**
+- **Non-Proprietary Formats:** Favoring .csv or .json over formats that require expensive, specialized software (like .sas7bdat or proprietary AI files).
 
-### Debrief Discussion (7 minutes)
-**Debrief Questions:**
+#### **R — Reusable**
 
-1. "What was hardest to negotiate? Why?"
-2. "What solutions did you find for balancing protection with access?"
-3. "How did the different perspectives (PI vs. compliance vs. IRB) create tension?"
-4. "What would make this process easier in real life?"
+_Build for the future, not just the deadline._
 
-**Key Learning Points to Draw Out:**
+- **Documentation (The "Readme"):** Does the data include a "User Manual" that explains the variables, the methodology, and the limitations?
 
-- **Start data sharing conversations early** in collaboration planning
-- **Different stakeholders have legitimate but competing concerns**
-- **Technical solutions can resolve some trust issues**
-- **Clear agreements prevent bigger conflicts later**
-- **Templates and institutional support make negotiations faster"
+- **Licensing:** Using clear licenses (like Creative Commons) so others know exactly how they are allowed to use, credit, or remix your work.
 
-**Transition:** "Data sharing is often where issues of fairness and inclusion become most visible. Let's talk about building teams where everyone can contribute effectively."}
+#### **+ — The "Plus" (Secure & Ethical)**
+
+_FAIR is great; safe is better._
+
+- **De-identification:** Ensuring human subject data is stripped of identifiers (HIPAA compliance).
+
+- **Trust & Sovereignty:** Respecting the rights of communities (like the Clinic in our scenario) to control how their data is used, even if the data is "technically" findable.
+
+- **Sustainability:** Ensuring the data remains secure and usable long after the grant funding ends.
+
+***
+
+**The Team Science Tip:** Data sharing is 20% technical and 80% cultural. Use these principles to build 
+
+**Psychological Safety**—when everyone knows the rules, they are more likely to share their best work.
+
+## Debrief (8 minutes)
+
+Has your team identified the conflicts you didn’t realize existed?
+Who owns the data if the Tech Partner goes bankrupt?
+

@@ -1,150 +1,53 @@
 # Module 3: Governance and Leadership Models (40 minutes)
 
-## Content Block: Governance Structures That Work (20 minutes)
+**Facilitator:** Jake Chen, Functional Genomics (CM4AI) 
 
-### Opening Connection (2 minutes)
-**Say:** "Communication helps teams work day-to-day, but governance determines how teams make big decisions and handle authority. Let's look at what research tells us about structures that actually work."
+## Content Block (10 minutes)
+_(Narrative Arc: A Maze, a Map, and the Guides)_
 
-### Governance vs. Management Distinction (3 minutes)
-**Key Distinction:**
+### Context: Navigating the Layers of Management (3 minutes)
 
-- **Management:** Day-to-day operations, task coordination, resource allocation
-- **Governance:** Decision rights, accountability structures, conflict resolution, strategic direction
+- **Hook:** In a single-lab environment, you usually have one boss (the PI) and a straight line to decision-making. In a massive consortium like Bridge2AI, **_that straight line becomes a maze_**.
 
-**Why It Matters:** "Many teams focus only on management and wonder why they struggle with bigger decisions."
+- **Reality:** We need to visualize the _vertical_ depth of these projects. Decisions pass through multiple layers: from the working group to the steering committee, to the program officials, and finally to the funding agency (NIH).
 
-### Model 1: Distributed Leadership (4 minutes)
-**Core Principle:** Different people lead different aspects based on expertise and interest.
+**Goal:** Not everyone has to become an administrator. We are sharing this knowledge so scientists don't waste weeks waiting for a decision from the wrong person. At all times, we need to know who holds the keys.
 
-**Research Support:** Pearce & Conger's studies show distributed leadership increases team performance in knowledge work.
+### Theory: Overview of Models (5 minutes)
 
-**Structure Example:**
+**Models:** Introduce the spectrum of governance, ranging from traditional to experimental.
 
-- **Scientific Leadership:** Domain expert guides research direction
-- **Operational Leadership:** Project manager handles logistics, timelines
-- **External Leadership:** Senior person manages stakeholder relationships
-- **Innovation Leadership:** Creative thinker drives new approaches
+  - _Traditional Hierarchy:_ Clear chain of command (efficient, but can bottleneck).
 
-**Pros:** Leverages expertise, develops multiple people, reduces single points of failure
-**Cons:** Can be confusing if roles aren't clear, may slow some decisions
+  - _Distributed Leadership:_ Authority spread by expertise (agile, but requires high trust).
 
-**When It Works Best:** Diverse, highly skilled teams with complex projects
+  - _Network Governance:_ Hub-and-spoke models, common in large data consortia.
+  
+![Governance Models](images/module-3-governance-models.png)
 
-### Model 2: Rotating Leadership (3 minutes)
-**Core Principle:** Leadership rotates based on project phase or expertise needs.
+**Resource:** For those who want to dig deeper into the sociology of these structures, we have included key references in your workshop booklet (e.g., _Pearce & Conger on Shared Leadership)_.
 
-**Real Example:** "In the Human Genome Project, different institutions led different phases based on their comparative advantages."
+### Reality Check: Agency vs. Awareness (2 minutes)
 
-**Structure Example:**
+**A word of caution:** We don’t always get to choose one of these models. When we join a massive project like Bridge2AI, the governance structure is likely already _set in stone (maybe!)_.
 
-- **Phase 1:** Data collection led by field research expert
-- **Phase 2:** Analysis led by computational specialist
-- **Phase 3:** Dissemination led by policy expert
+**Lesson:** We cannot always negotiate the _macro-structure_ (the Consortium), but we _can_ often influence the _micro-structure_ (our specific working group). **_Your goal is to understand the rules of the game so you can play it effectively, not necessarily to rewrite the rulebook._**
 
-**Pros:** Matches expertise to needs, develops multiple leaders
-**Cons:** Requires smooth handoffs, can create discontinuity
+## Activity 3: Fishbowl Fireside Chat (30 minutes)
 
-### Model 3: Collaborative Hierarchy (4 minutes)
-**Core Principle:** Clear hierarchy with democratic input mechanisms.
+* **Format:** To illustrate what this looks like in the real world, we are moving into a 'Fishbowl' format.
 
-**Research Support:** Tannenbaum & Schmidt's leadership continuum research shows this balances efficiency with engagement.
+  - _Setup:_ Chairs arranged in the center. One chair is left intentionally empty to encourage audience rotation/participation.
 
-**Structure Example:**
+* **Moderator:** Introduce **Dr. Jake Chen**, who will guide the conversation, ensuring we probe the tension between structure and innovation.
 
-- **Principal Investigator:** Final decision authority, external accountability
-- **Advisory Council:** Representative input from all stakeholder groups
-- **Working Groups:** Delegated authority for specific domains
+* **Keynote Lead:** Introduce **Dr. Casey Greene**.
 
-**Decision Process:**
+  - _Why him?_ Casey represents a modern approach to scientific leadership—open, decentralized, and highly effective. We want to hear how he leads without stifling creativity.
 
-1. Working groups develop recommendations
-2. Advisory council provides input and alternatives
-3. PI makes final decision with transparent rationale
+* **Institutional Context:** Introduce the Bridge2AI representatives (**Pamela Foster, Colleen Cuddy, Yulia Levites Strekalova, and Jamie Toghranegar**).
 
-**Pros:** Clear accountability, incorporates diverse input, efficient
-**Cons:** Can feel top-down if not implemented well
+  - _Role:_ They represent the connective tissue of the consortium—the people who ensure the disparate parts actually talk to one another.
+  
+**Objective:** We will watch them discuss how decisions actually get made. Pay attention to how they balance the need for _control_ (to keep the project safe) with the need for _freedom_ (to let the science happen).
 
-### Model 4: Network Governance (4 minutes)
-**Core Principle:** Hub-and-spoke coordination across autonomous units.
-
-**Real Example:** "Think of how the Large Hadron Collider collaboration works - thousands of scientists across hundreds of institutions."
-
-**Structure:**
-
-- **Central Coordination Hub:** Manages overall project, standards, resources
-- **Autonomous Nodes:** Independent teams with specific responsibilities
-- **Liaison Roles:** Boundary spanners who connect nodes
-
-**Pros:** Scales to large collaborations, maintains autonomy
-**Cons:** Complex coordination, potential for fragmentation
-
-**Key Success Factor:** Strong coordination mechanisms and shared standards
-
-## Activity 3: Governance Design Challenge (20 minutes)
-
-### Scenario Assignment (2 minutes)
-**Four Scenarios - Assign One Per Team:**
-
-1. **Multi-institutional Clinical Trial**
-   - 5 medical centers, 200 patients, 3-year timeline
-   - Regulatory compliance requirements, patient safety critical
-   - $2M budget, industry sponsor
-
-2. **Interdisciplinary Data Analysis Consortium**
-   - Computer scientists, social scientists, domain experts
-   - Large shared dataset, multiple research questions
-   - Different publication norms across disciplines
-
-3. **International Field Research Collaboration**
-   - Teams from 4 countries, remote field sites
-   - Equipment sharing, varying resource levels
-   - Different institutional policies and cultures
-
-4. **Industry-Academic Partnership**
-   - University researchers + company R&D team
-   - Proprietary data concerns, different timelines
-   - Academic freedom vs. commercial interests
-
-### Design Phase (15 minutes)
-**Instructions to Teams:**
-"Design a governance structure for your scenario. Address these key elements:"
-
-**Governance Elements to Address:**
-
-1. **Leadership Structure:** Who has authority for what decisions?
-2. **Decision-Making Process:** How are key choices made?
-3. **Conflict Resolution:** What happens when people disagree?
-4. **Resource Allocation:** How are shared resources managed?
-5. **Credit and Recognition:** How are contributions acknowledged?
-
-**Deliverable:** Create a visual representation (flowchart, org chart, process diagram) that shows your governance model.
-
-**Your Facilitation Approach:**
-
-- **Visit each team twice during the 15 minutes**
-- **First visit (5-7 min):** Check understanding, clarify scenario details
-- **Second visit (10-12 min):** Push thinking with questions:
-  - "What happens if this person leaves the project?"
-  - "How do you handle a major disagreement using this structure?"
-  - "Where might this break down under pressure?"
-
-**Common Challenges and Responses:**
-
-- **Teams default to simple hierarchy** → "What are the downsides of that approach for this scenario?"
-- **Teams create overly complex structures** → "How would new team members understand this?"
-- **Teams ignore the human dynamics** → "What about trust, communication, relationships?"
-
-### Gallery Walk and Voting (3 minutes)
-**Process:**
-
-1. Teams post their governance designs around the room
-2. Everyone walks around and reviews all designs
-3. Each person gets 2 dot stickers to vote for:
-   - Most innovative approach
-   - Most practical for real implementation
-
-**Debrief Questions:**
-
-- "What patterns do you see across the designs?"
-- "What creative solutions surprised you?"
-- "What would make these governance models actually work in practice?"

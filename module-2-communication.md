@@ -1,123 +1,63 @@
 # Module 2: Communication Architecture (45 minutes)
 
-## Content Block: Evidence-Based Communication Strategies (20 minutes)
+**Facilitator:** Jamie Toghranegar (Precision Public Health - Voice)
 
-### Opening Bridge (2 minutes)
-**Say:** "In that last activity, how many groups mentioned communication as a challenge?" [Show of hands] "Communication issues aren't just annoying - they're expensive. MIT research shows that poor communication costs organizations an average of $62.4 million per year."
+## Content Block: Designing and Implementing Effective Communication Plans for Impactful Team Science
 
-### The 4C Framework Introduction (3 minutes)
-**Present Framework:**
-"Effective team communication has four essential elements - the 4 C's:"
+### Part 1: The Basics of Effective Communication (5 minutes)
 
-**Clarity | Cadence | Channels | Culture**
+**A. The Communication Chain**
 
-"Let's unpack each one with some science behind it."
+Communication is not a single thing, and is not a singular act. Communication is more than speaking. It is a chain and the result of a series of choices between a sender and a receiver.  These decisions determine whether our message is received effectively. 
 
-### Clarity: Structured Information Sharing (4 minutes)
-**Research Basis:** Hackman's research on team design shows that clarity of purpose and process predicts team success better than member characteristics.
+**B. Communication Channels**
 
-**Practical Application:**
+- Definition and purpose of communication channels
+- Matching message type to delivery method
+- Channels as the foundation of team communication architecture
 
-- **Meeting agendas with time allocations**
-- **Decision logs** (what was decided, by whom, when)
-- **Action items with owners and deadlines**
-- **Shared glossaries** for technical terms across disciplines
+**C. Scenario Practice**
+- Communication Examples: Identify effective and ineffective communication through examples
+- The Facilitator shares three scenarios and asks the group to share their opinions on whether each scenario depicts an effective way of communicating, and, if not, what the possible cause of misalignment is: presentation or delivery?
 
-**Discussion Prompt:** "What happens in your experience when roles or expectations aren't clear?"
 
-**Listen for:** Duplicated work, missed deadlines, conflict, frustration
+### Part 2: Communication Architectures at the Team Level (10 minutes)
 
-### Cadence: Regular, Predictable Touchpoints (3 minutes)
-**Research Basis:** Gersick's punctuated equilibrium model shows teams need regular check-ins to maintain momentum and adjust course.
+**A. Defining Communication Architectures**
 
-**Practical Framework:**
+- Define roles, responsibilities, and decision-making processes
 
-- **Daily/Weekly:** Tactical coordination (brief, operational)
-- **Bi-weekly/Monthly:** Strategic review (longer, reflective)
-- **Quarterly:** Relationship maintenance (team building, big picture)
-- **As-needed:** Crisis management (rapid response protocols)
+- Build trust and psychological safety
 
-**Key Point:** "Consistency matters more than frequency. Better to have monthly meetings that always happen than weekly ones that get cancelled."
 
-### Channels: Right Medium for the Message (4 minutes)
-**Research Basis:** Media richness theory - different types of information need different communication channels.
+**B. Bridge2AI-Voice Example**
 
-**Channel Selection Guide:**
+- Leadership roles and institutional representation
 
-- **Face-to-face/Video:** Complex discussions, sensitive topics, brainstorming
-- **Phone:** Quick decisions, relationship building
-- **Email:** Documentation, detailed information sharing, non-urgent items
-- **Chat/Slack:** Quick questions, coordination, social connection
-- **Shared documents:** Collaborative creation, version control
+- Communication channels used:
 
-**Common Mistake:** "Using email for everything. Email is terrible for discussions but great for decisions."
+  - Email, Slack, Monday.com, Box, Google Docs, Teams, phone/text
 
-### Culture: Psychological Safety and Inclusion (4 minutes)
-**Research Basis:** Google's Project Aristotle found psychological safety was the #1 predictor of team performance.
+- Meeting structures across initiatives and task forces
 
-**Edmondson's Definition:** "A shared belief that the team is safe for interpersonal risk-taking."
 
-**Observable Behaviors:**
+**C. How to Design and Implement Communication Architectures**
 
-- People ask questions without fear of appearing ignorant
-- Mistakes are discussed openly as learning opportunities
-- Disagreement is expressed respectfully and directly
-- Different perspectives are actively sought
+- Avoid over-communication and channel overload
 
-**Key Insight:** "This doesn't mean being 'nice' all the time - it means being direct and kind simultaneously."
+- Prioritize commonly used tools
 
-## Activity 2: Communication Charter Workshop (25 minutes)
+- Simplify whenever possible
 
-### Setup and Instructions (3 minutes)
-**Form Teams:** "Count off 1-5, find your number group. You're going to create a communication charter that a real research team could use."
+## Activity 2: Developing a Communication Charter (25 minutes)
 
-**Materials:** Provide charter template, example excerpts, channel decision tree
+**A. Applied Exercise (15 minutes)**
+Draft a charter for:
+A current team
+A hypothetical future team
+Small-group brainstorming
+Group discussion and sharing
 
-### Phase 1: Charter Development (10 minutes)
-**Instructions to Teams:**
-"Imagine you're starting a 2-year collaborative research project. Create a communication charter addressing these areas:"
+**B. Feedback and Presentation (5 minutes)**
 
-**Charter Elements:**
-1. **Communication Values** (3-4 core principles)
-2. **Meeting Rhythms** (frequency, duration, purpose of different meeting types)
-3. **Channel Guidelines** (what goes where, response time expectations)
-4. **Decision-Making Process** (how choices get made, who has input vs. final say)
-5. **Conflict Resolution** (steps for handling disagreements)
-
-**Your Role as Facilitator:**
-
-- Circulate between teams
-- Ask clarifying questions: "How would this work in practice?" "What if someone doesn't follow this?"
-- Keep energy up with time calls
-- Look for innovative approaches to highlight
-
-**Common Sticking Points and Responses:**
-
-- **"This is too rigid"** → "Think of it as a default, not a rule. You can always deviate with agreement"
-- **"Our team is different"** → "Absolutely - customize this to your context"
-- **"We don't have time for all these meetings"** → "What's the cost of poor coordination?"
-
-### Phase 2: Peer Feedback (10 minutes)
-**Process:**
-1. Teams pair up and exchange charters
-2. Each team provides feedback using this structure:
-   - **One strength:** What works well in this charter?
-   - **One question:** What needs clarification?
-   - **One suggestion:** How could this be improved or strengthened?
-
-**Feedback Guidelines to Share:**
-
-- Be specific rather than general
-- Focus on workability, not personal preferences
-- Ask questions if something is unclear
-
-**Your Role:**
-
-- Monitor feedback quality - intervene if it's too vague or harsh
-- Help teams stay on time
-- Note particularly creative solutions for later sharing
-
-### Phase 3: Revision (2 minutes)
-"Take the feedback you received and make one concrete revision to your charter."
-
-**Why This Matters:** Teams that practice giving and receiving feedback in low-stakes situations do better when conflicts arise.
+**C. Revision Time (5 minutes)**
