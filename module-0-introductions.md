@@ -57,4 +57,4 @@
 
 As we move through the modules today, we are effectively moving around this wheel. Team Science is the grease that keeps this wheel turning. If the team breaks, the cycle stops.
 
-[Slides and materials can be found here](https://drive.google.com/drive/folders/1-y0C48APbaGCNI9vha1rvxG_l2LrZNsK?usp=drive_link)
+[Slides and materials can be found here](<materials/Module 0/>)
