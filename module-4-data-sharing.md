@@ -105,4 +105,4 @@ _FAIR is great; safe is better._
 Has your team identified the conflicts you didn’t realize existed?
 Who owns the data if the Tech Partner goes bankrupt?
 
-[Handouts can be found here](https://drive.google.com/drive/folders/1MrnGTos0jOuFK_JZfQkEpBjX28-OU0_d?usp=drive_link)
+[Handouts can be found here](<materials/Module 4/>)

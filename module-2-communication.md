@@ -62,4 +62,4 @@ Group discussion and sharing
 
 **C. Revision Time (5 minutes)**
 
-[Slides and Handouts can be found here](https://drive.google.com/drive/folders/1qTo_pjNCRrA28VhMzKjaigRsuSkXIH_N?usp=drive_link)
+[Slides and Handouts can be found here](<materials/Module 2/>)

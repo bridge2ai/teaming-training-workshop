@@ -51,4 +51,4 @@ _(Narrative Arc: A Maze, a Map, and the Guides)_
   
 **Objective:** We will watch them discuss how decisions actually get made. Pay attention to how they balance the need for _control_ (to keep the project safe) with the need for _freedom_ (to let the science happen).
 
-[Slides can be found here](https://drive.google.com/drive/folders/1SD19pWKFWN0tfGF7FyLdmMiGKtVcuSEm?usp=drive_link)
+[Slides can be found here](<materials/Module 3/>)
