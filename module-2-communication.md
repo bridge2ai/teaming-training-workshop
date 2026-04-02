@@ -61,3 +61,5 @@ Group discussion and sharing
 **B. Feedback and Presentation (5 minutes)**
 
 **C. Revision Time (5 minutes)**
+
+[Slides and Handouts can be found here](https://drive.google.com/drive/folders/1qTo_pjNCRrA28VhMzKjaigRsuSkXIH_N?usp=drive_link)
