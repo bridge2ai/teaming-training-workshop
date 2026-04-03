@@ -62,4 +62,4 @@ Group discussion and sharing
 
 **C. Revision Time (5 minutes)**
 
-[Slides and Handouts can be found here](<materials/Module 2/>)
+[Slides and Handouts can be found here](<materials/Module-2/>)

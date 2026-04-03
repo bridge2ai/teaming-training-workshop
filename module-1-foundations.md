@@ -94,4 +94,4 @@
 
 **Transition:** "Let's start with one of the most commonly cited issues: communication."
 
-[Slides and Handouts can be found here](<materials/Module 1/>)
+[Slides and Handouts can be found here](<materials/Module-1/>)
