@@ -40,7 +40,7 @@
 
 ***
 
-This cheat sheet is designed to bridge the gap between high-level data theory and the "on-the-ground" reality of a research team. It breaks down the **FAIR+** acronym through the lens of **Team Science**.***
+This cheat sheet is designed to bridge the gap between high-level data theory and the "on-the-ground" reality of a research team. It breaks down the **FAIR+** acronym through the lens of **Team Science**.
 
 ## **🔬 The FAIR+ Cheat Sheet for Research Teams**
 
@@ -105,4 +105,4 @@ _FAIR is great; safe is better._
 Has your team identified the conflicts you didn’t realize existed?
 Who owns the data if the Tech Partner goes bankrupt?
 
-[Handouts can be found here](<materials/Module-4/>)
+[Handouts can be found here](https://github.com/bridge2ai/teaming-training-workshop/tree/main/materials/Module-4)

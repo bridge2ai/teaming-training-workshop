@@ -5,8 +5,8 @@
 ## Content Block: The Monday Morning Protocol (5 minutes)
 The goal is for participants to leave not just with a plan, but with a designed experiment to introduce one team science practice to their lab.
 
-### The Hook(The Implementation Challenge) (5 minutes)
-- **Facilitator:** "We know that 90% of training is lost without implementation support.Your labs are busy, stressed, and resistant to change. We aren't going to overhaul your lab culture overnight. We are going to run a scientific experiment on your team's process."
+### The Hook (The Implementation Challenge) (5 minutes)
+- **Facilitator:** "We know that 90% of training is lost without implementation support. Your labs are busy, stressed, and resistant to change. We aren't going to overhaul your lab culture overnight. We are going to run a scientific experiment on your team's process."
 - **Concept:** Briefly introduce the Knowing-Doing Gap and Resistance as natural forces to be navigated, not fought. Recognize that understanding the source of resistance often presents a gift, resulting in a better approach.
 
 | Concept | The Trap | The Strategy |
@@ -34,4 +34,4 @@ In this workshop, you are currently in a 'cold' state—you are calm, rational, 
 - Ask 2-3 volunteers to share their Micro-Pilot.
 - Facilitator Closing: Sustainability isn't about giant leaps; it's about successful pilots that get scaled because they work.
 
-[Slides can be found here](<materials/Module-6/>)
+[Slides can be found here](https://github.com/bridge2ai/teaming-training-workshop/tree/main/materials/Module-6)

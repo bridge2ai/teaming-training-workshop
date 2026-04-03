@@ -8,4 +8,4 @@
 ## Activity 7: The Open Lab (10 mins)
 Open the floor to receive feedback, and hold a Q&A.
 
-[Slides can be found here](<materials/Wrap-Up/>)
+[Slides can be found here](https://github.com/bridge2ai/teaming-training-workshop/tree/main/materials/Wrap-Up)

@@ -6,7 +6,7 @@
 
 ### Development
 
-To convert markdown to publication format, first install [download and install quarto](https://quarto.org/docs/get-started/).
+To convert markdown to publication format, first [download and install quarto](https://quarto.org/docs/get-started/).
 
 Then, from the command line:
 

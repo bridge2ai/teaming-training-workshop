@@ -62,4 +62,4 @@ Group discussion and sharing
 
 **C. Revision Time (5 minutes)**
 
-[Slides and Handouts can be found here](<materials/Module-2/>)
+[Slides and Handouts can be found here](https://github.com/bridge2ai/teaming-training-workshop/tree/main/materials/Module-2)

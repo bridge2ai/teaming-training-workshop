@@ -57,4 +57,4 @@
 
 As we move through the modules today, we are effectively moving around this wheel. Team Science is the grease that keeps this wheel turning. If the team breaks, the cycle stops.
 
-[Slides and materials can be found here](<materials/Module-0/>)
+[Slides and materials can be found here](https://github.com/bridge2ai/teaming-training-workshop/tree/main/materials/Module-0)
