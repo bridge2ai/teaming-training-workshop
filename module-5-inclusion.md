@@ -97,3 +97,5 @@ _Deliberate Processes & Practices:_ Intentionally designing how the team communi
     - What are some things the team is doing well?
     - Where is there an area for growth?
     - What are some practices and processes that you might introduce?
+
+[Slides and Handouts can be found here](<materials/Module-5/>)

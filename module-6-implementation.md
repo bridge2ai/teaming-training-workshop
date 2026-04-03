@@ -33,3 +33,5 @@ In this workshop, you are currently in a 'cold' state—you are calm, rational, 
 ### Debrief & Commitment (5 minutes)
 - Ask 2-3 volunteers to share their Micro-Pilot.
 - Facilitator Closing: Sustainability isn't about giant leaps; it's about successful pilots that get scaled because they work.
+
+[Slides can be found here](<materials/Module-6/>)

@@ -7,3 +7,5 @@
 
 ## Activity 7: The Open Lab (10 mins)
 Open the floor to receive feedback, and hold a Q&A.
+
+[Slides can be found here](<materials/Wrap-Up/>)

@@ -93,3 +93,5 @@
 4. "Great - we're going to address many of these challenges directly in our time together"
 
 **Transition:** "Let's start with one of the most commonly cited issues: communication."
+
+[Slides and Handouts can be found here](<materials/Module-1/>)

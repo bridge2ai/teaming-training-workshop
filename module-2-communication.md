@@ -61,3 +61,5 @@ Group discussion and sharing
 **B. Feedback and Presentation (5 minutes)**
 
 **C. Revision Time (5 minutes)**
+
+[Slides and Handouts can be found here](<materials/Module-2/>)
