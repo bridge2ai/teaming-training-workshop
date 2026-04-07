@@ -1,6 +1,64 @@
 # Module 3: Governance and Leadership Models (40 minutes)
 
-**Facilitator:** Jake Chen, Functional Genomics (CM4AI) 
+**Facilitator:** Jake Chen, Functional Genomics (CM4AI)
+
+## Learning Objectives
+
+By the end of this module, participants will be able to:
+
+1. Distinguish between traditional hierarchical, distributed, and network governance models and describe when each is appropriate.
+2. Map the decision-making layers in a large research consortium (working group → steering committee → program officials → funder).
+3. Identify where within a given governance structure they have meaningful agency to influence outcomes.
+4. Articulate the tradeoff between control (protecting project integrity) and freedom (enabling scientific creativity) in consortium governance.
+
+## Module Overview
+
+Governance sounds like an administrative concern — the province of directors and program officers, not scientists. But every researcher in a large consortium is already operating inside a governance structure, whether or not they know it. That structure determines who can approve a data release, who needs to sign off before a paper is submitted, and who is empowered to resolve a conflict between two teams. Scientists who don't understand the governance structure around them waste enormous time routing decisions to the wrong people, waiting on approvals that aren't needed, or — worse — making unilateral choices that create downstream conflicts.
+
+This module provides a practical map of how governance works in large research consortia, using Bridge2AI as a concrete example. It introduces three governance models across a spectrum from centralized to distributed, then grounds the theory in the real experience of the people who actually navigate these structures every day. The fishbowl format is chosen deliberately: it allows participants to observe authentic conversation about governance challenges, including the tensions and ambiguities that polished presentations would smooth over.
+
+## Participant Background Reading
+
+Participants are encouraged to review the following before the session. Each takes 10–20 minutes.
+
+- **A primer on how NIH Common Fund consortia are structured.** Before the session, review how large NIH-funded consortia typically organize themselves — particularly the roles of steering committees, working groups, program officials, and External Scientific Panels. The NIH Common Fund website (commonfund.nih.gov) and published consortium papers (which typically include a governance section) are good sources. Participants who already work in Bridge2AI should review their specific consortium's governance charter if available.
+
+- **An accessible overview of distributed or shared leadership.** The module references distributed leadership as an alternative to traditional hierarchy. Before arriving, read a short accessible piece — a blog post, magazine article, or book excerpt — that describes what distributed leadership looks like in practice. This could be from a science management context (e.g., an essay on running an open-source scientific project) or a general organizational context.
+
+## Instructor Notes
+
+### Conceptual Background
+
+**Three governance models and their tradeoffs.**
+- *Traditional hierarchy* concentrates decision-making authority at the top. It is efficient when decisions are routine and well-defined, and when speed matters more than buy-in. It fails when the people at the top lack the specialized knowledge to make good decisions, or when the chain of command creates bottlenecks in fast-moving science.
+- *Distributed leadership* allocates authority by expertise rather than position. It requires high trust among team members and clear norms about who has authority over what. It is well-suited to interdisciplinary teams where no single person can have deep expertise in all areas. The risk is ambiguity: if authority boundaries aren't explicit, decisions fall into gaps or get made twice by different people.
+- *Network governance* — hub-and-spoke or web-like structures — is common in large data consortia like Bridge2AI, where semi-autonomous subgroups (centers, cores, working groups) need to coordinate without a single unified command. Provan & Kenis (2008) identify three forms of network governance: participant-governed (all members share governance), lead-organization-governed (one member coordinates on behalf of others), and network administrative organization (a separate entity governs the whole). Many NIH consortia use hybrid forms.
+
+**Agency vs. awareness: a key pedagogical move.** This module makes an important distinction between macro-structure (the consortium's overall governance, which participants typically cannot change) and micro-structure (the governance of their specific working group or subteam, which they often *can* shape). This reframe is essential to prevent learned helplessness: participants should leave feeling empowered to act on what they can influence, not overwhelmed by what they cannot.
+
+**Facilitating the fishbowl.** The fishbowl format is pedagogically powerful because it models authentic conversation rather than polished presentation. Key facilitation moves:
+- The *empty chair* is an explicit invitation for audience members to enter the conversation. Facilitators should name this at the start and gently encourage participation if no one volunteers.
+- Keep the conversation focused on *how* decisions get made, not just *what* decisions are made — the process, not the output, is what participants need to observe.
+- Draw out disagreements and tensions gently. "It sounds like you and [other panelist] have different views on this — can you both say more?" is a useful prompt.
+- Close by asking each panelist: "What do you wish you had known about this consortium's governance when you first joined?"
+
+### Key Concepts
+
+- **Governance:** The systems, processes, and norms by which decisions are made and authority is allocated within an organization or collaboration.
+- **Traditional hierarchy:** A governance model with a clear, top-down chain of command and centralized decision-making authority.
+- **Distributed leadership:** A governance model in which authority is allocated by expertise rather than position, with multiple people holding decision-making power in their domains.
+- **Network governance:** A governance model suited to consortia and partnerships, in which semi-autonomous units coordinate through shared norms, liaison roles, or a coordinating body rather than a unified chain of command.
+- **Working group:** A subunit of a consortium responsible for a specific area of work (e.g., data standards, ethics, a specific use case). Typically has its own internal governance.
+- **Steering committee:** A consortium-level body with broad oversight and decision-making authority across working groups.
+- **Agency vs. awareness:** The distinction between understanding a governance structure (awareness) and having the ability to change it (agency). Participants may have limited agency over macro-structure but meaningful agency over micro-structure.
+
+### Recommended Instructor Reading
+
+- Provan, K. G., & Kenis, P. (2008). "Modes of Network Governance: Structure, Management, and Effectiveness." *Journal of Public Administration Research and Theory*, 18(2), 229–252. The foundational typology of network governance forms; provides theoretical grounding for the "network governance" model introduced in this module.
+- Pearce, C. L., & Conger, J. A. (Eds.). (2003). *Shared Leadership: Reframing the Hows and Whys of Leadership*. SAGE. Referenced in the original workshop materials as a resource on distributed leadership.
+- Zuckerman, H. (1977). *Scientific Elite: Nobel Laureates in the United States*. Free Press. For historical context on the "hero science" model and its relationship to hierarchical governance in academic science — useful background for the Agency vs. Awareness discussion.
+
+---
 
 ## Content Block (10 minutes)
 _(Narrative Arc: A Maze, a Map, and the Guides)_
