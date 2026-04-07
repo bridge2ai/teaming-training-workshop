@@ -34,4 +34,8 @@ In this workshop, you are currently in a 'cold' state—you are calm, rational, 
 - Ask 2-3 volunteers to share their Micro-Pilot.
 - Facilitator Closing: Sustainability isn't about giant leaps; it's about successful pilots that get scaled because they work.
 
-[Slides can be found here](https://github.com/bridge2ai/teaming-training-workshop/tree/main/materials/Module-6)
+---
+
+**Module Materials**
+
+- [Slides (PDF)](https://github.com/bridge2ai/teaming-training-workshop/blob/main/materials/Module-6/Module-6-Slides.pdf)

@@ -94,4 +94,9 @@
 
 **Transition:** "Let's start with one of the most commonly cited issues: communication."
 
-[Slides and Handouts can be found here](https://github.com/bridge2ai/teaming-training-workshop/tree/main/materials/Module-1)
+---
+
+**Module Materials**
+
+- [Slides (PDF)](https://github.com/bridge2ai/teaming-training-workshop/blob/main/materials/Module-1/Module-1-Slides.pdf)
+- [Handout (PDF)](https://github.com/bridge2ai/teaming-training-workshop/blob/main/materials/Module-1/Module-1-Handout.pdf)

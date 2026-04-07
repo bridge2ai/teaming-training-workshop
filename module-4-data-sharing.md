@@ -105,4 +105,12 @@ _FAIR is great; safe is better._
 Has your team identified the conflicts you didn’t realize existed?
 Who owns the data if the Tech Partner goes bankrupt?
 
-[Handouts can be found here](https://github.com/bridge2ai/teaming-training-workshop/tree/main/materials/Module-4)
+---
+
+**Module Materials**
+
+- [Pre-Read: The FAIR Guiding Principles for scientific data management and stewardship (PDF)](https://github.com/bridge2ai/teaming-training-workshop/blob/main/materials/Module-4/Module-4-FAIR-Principles.pdf)
+- [Pre-Listen: Messy Data Silos Compromise Patient Privacy (Audio)](https://github.com/bridge2ai/teaming-training-workshop/blob/main/materials/Module-4/Module-4-Messy-Data-Silos-Compromise-Patient-Privacy.m4a)
+- [Handout-1 (PDF)](https://github.com/bridge2ai/teaming-training-workshop/blob/main/materials/Module-4/Module-4-Handout-1.pdf)
+- [Handout-2 (PDF)](https://github.com/bridge2ai/teaming-training-workshop/blob/main/materials/Module-4/Module-4-Handout-2.pdf)
+- [FAIR+ Cheat Sheet (PDF)](https://github.com/bridge2ai/teaming-training-workshop/blob/main/materials/Module-4/Module-4-FAIRPlus-Cheat-Sheet.pdf)

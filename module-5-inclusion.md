@@ -98,4 +98,9 @@ _Deliberate Processes & Practices:_ Intentionally designing how the team communi
     - Where is there an area for growth?
     - What are some practices and processes that you might introduce?
 
-[Slides and Handouts can be found here](https://github.com/bridge2ai/teaming-training-workshop/tree/main/materials/Module-5)
+---
+
+**Module Materials**
+
+- [Slides (PDF)](https://github.com/bridge2ai/teaming-training-workshop/blob/main/materials/Module-5/Module-5-Slides.pdf)
+- [Handout (PDF)](https://github.com/bridge2ai/teaming-training-workshop/blob/main/materials/Module-5/Module-5-Handout.pdf)
