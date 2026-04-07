@@ -2,6 +2,52 @@
 
 **Facilitator:** Mónica Muñoz Torres, Bridge Center
 
+## Learning Objectives
+
+By the end of this module, participants will be able to:
+
+1. Articulate why large-scale, multi-institutional collaboration has become a requirement — not an option — for contemporary biomedical research.
+2. Identify at least one personal friction point in their current collaborative work that the workshop is designed to address.
+3. Recognize the Research Life Cycle as a framework for understanding how team science supports every stage of research, from ideation to dissemination.
+
+## Module Overview
+
+Science has always been social, but the scale and structure of that sociality has changed dramatically. The lone scientist making a solitary breakthrough — what this module calls "hero science" — is increasingly a myth even in popular imagination and a near-impossibility in practice. Studies of publication patterns show that team-authored papers now dominate every scientific field, and the teams are getting larger. What was once a collaboration between two colleagues down the hall is now a 200-person consortium spanning three countries, four disciplines, and a dozen institutional compliance regimes.
+
+This shift creates a new kind of problem. The skills researchers develop to succeed individually — deep expertise, independent judgment, focused persistence — are not the same skills required to make a large team function. The habits that work for a two-person collaboration (informal hallway conversations, shared assumptions, flexible deadlines) actively break down at consortium scale. This introductory module frames the rest of the workshop as a response to that gap: not a soft-skills seminar, but a practical toolkit for making large-scale collaborative science actually work.
+
+## Participant Background Reading
+
+Participants are encouraged to review the following before the session. Each takes 15–20 minutes.
+
+- **Wuchty, S., Jones, B. F., & Uzzi, B. (2007). "The Increasing Dominance of Teams in Production of Knowledge." *Science*, 316(5827), 1036–1039.** This landmark study of 19.9 million papers and 2.1 million patents demonstrated empirically that teams now dominate knowledge production and that team-produced work receives more citations. Read this to understand the empirical foundation for the "collaboration imperative" introduced in Module 1. A plain-language summary is widely available if the full paper is not accessible.
+
+- **NIH Common Fund: Bridge2AI Program Overview** (available at commonfund.nih.gov/bridge2ai). A short overview of the Bridge2AI initiative that provides the real-world context for this workshop. Participants unfamiliar with Bridge2AI should review this before arrival to understand the scale of coordination the workshop addresses.
+
+## Instructor Notes
+
+### Conceptual Background
+
+**"Hero science" as a cultural norm.** The lone-genius narrative is deeply embedded in how science is taught, funded, and rewarded. Graduate training typically emphasizes individual mastery; promotion criteria weight solo-authored work; Nobel Prizes until recently were awarded to individuals even for collaborative discoveries. Understanding why this norm persists helps instructors respond empathetically when participants resist the "teaming" framing — they have often been rewarded their entire careers for not depending on others.
+
+**The Research Life Cycle as a framework.** The wheel metaphor introduced in Key Message 5 is deliberately non-linear. It pushes back against the common assumption that team coordination is only relevant at the "collaboration" or "data sharing" stages. In reality, team dynamics shape what questions get asked (ideation), who gets credit (dissemination), and what data gets preserved (data generation). Facilitators should feel comfortable drawing connections from any point on the wheel to any module in the workshop.
+
+**Calibrating the room.** The live poll in Key Message 2 serves a pedagogical function beyond ice-breaking: it surfaces the specific friction points in this particular cohort and creates implicit permission to bring real problems into the discussion. Facilitators should note the responses and refer back to them throughout the day when a module addresses something participants named.
+
+### Key Concepts
+
+- **Team science:** A field of study and practice concerned with understanding and optimizing how scientific teams form, function, and produce knowledge. Distinct from simply "working with others."
+- **Hero science:** The cultural model of the solitary genius researcher; useful shorthand for the set of norms (individual credit, solo authorship, independent labs) that team science challenges.
+- **Consortium:** A formally organized group of independent institutions collaborating toward a shared goal, typically under a common funding agreement. Bridge2AI is an example.
+- **Research Life Cycle:** The iterative sequence of stages through which a research project moves — ideation, funding/planning, data generation, analysis, dissemination — here visualized as a wheel to emphasize that the process is not linear.
+
+### Recommended Instructor Reading
+
+- Bennett, L. M., Gadlin, H., & Marchand, C. (2018). "Collaboration and Team Science: From Theory to Practice." *Journal of Investigative Medicine*, 66(2), 1–14. An accessible overview of the science of team science field, useful for instructors who want conceptual grounding before facilitating Modules 1–3.
+- Stokols, D., Hall, K. L., Taylor, B. K., & Moser, R. P. (2008). "The Science of Team Science: Overview of the Field and Introduction to the Supplement." *American Journal of Preventive Medicine*, 35(2S), S77–S89. The founding paper of the SciTS field; provides historical context for why this discipline emerged.
+
+---
+
 ## Content Block (15 minutes)
 
 ### Key Message 1: Welcome & Context (5 minutes)
